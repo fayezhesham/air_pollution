@@ -1,0 +1,1545 @@
+country,code,year,air pollution,code2,continent,continent code,air quality
+Afghanistan,AFG,2010,65.24559168,AF,Asia,2,Very Bad
+Afghanistan,AFG,2011,66.83572711,AF,Asia,2,Very Bad
+Afghanistan,AFG,2012,66.02317421,AF,Asia,2,Very Bad
+Afghanistan,AFG,2013,61.36674452,AF,Asia,2,Bad
+Afghanistan,AFG,2014,59.01033025,AF,Asia,2,Bad
+Afghanistan,AFG,2015,61.2526558,AF,Asia,2,Bad
+Afghanistan,AFG,2016,56.28704672,AF,Asia,2,Bad
+Afghanistan,AFG,2017,56.91080835,AF,Asia,2,Bad
+Albania,ALB,2010,21.27782812,AL,Europe,3,Very Good
+Albania,ALB,2011,22.77253665,AL,Europe,3,Very Good
+Albania,ALB,2012,20.57825918,AL,Europe,3,Very Good
+Albania,ALB,2013,19.93851711,AL,Europe,3,Excellent
+Albania,ALB,2014,18.88395497,AL,Europe,3,Excellent
+Albania,ALB,2015,19.51253962,AL,Europe,3,Excellent
+Albania,ALB,2016,18.18993375,AL,Europe,3,Excellent
+Albania,ALB,2017,18.20060252,AL,Europe,3,Excellent
+Algeria,DZA,2010,33.63582026,DZ,Africa,1,Very Good
+Algeria,DZA,2011,33.83404774,DZ,Africa,1,Very Good
+Algeria,DZA,2012,33.3668262,DZ,Africa,1,Very Good
+Algeria,DZA,2013,34.24532791,DZ,Africa,1,Very Good
+Algeria,DZA,2014,35.56391718,DZ,Africa,1,Good
+Algeria,DZA,2015,36.08916357,DZ,Africa,1,Good
+Algeria,DZA,2016,39.85327385,DZ,Africa,1,Good
+Algeria,DZA,2017,38.8840107,DZ,Africa,1,Good
+American Samoa,ASM,2010,15.07272173,AS,Oceania,6,Excellent
+American Samoa,ASM,2011,15.39064186,AS,Oceania,6,Excellent
+American Samoa,ASM,2012,14.34415015,AS,Oceania,6,Excellent
+American Samoa,ASM,2013,14.12722552,AS,Oceania,6,Excellent
+American Samoa,ASM,2014,13.31699203,AS,Oceania,6,Excellent
+American Samoa,ASM,2015,13.0193901,AS,Oceania,6,Excellent
+American Samoa,ASM,2016,12.38272987,AS,Oceania,6,Excellent
+American Samoa,ASM,2017,12.47382024,AS,Oceania,6,Excellent
+Andorra,AND,2010,12.8071975,AD,Europe,3,Excellent
+Andorra,AND,2011,13.27350555,AD,Europe,3,Excellent
+Andorra,AND,2012,12.40705303,AD,Europe,3,Excellent
+Andorra,AND,2013,11.81367331,AD,Europe,3,Excellent
+Andorra,AND,2014,10.83041825,AD,Europe,3,Excellent
+Andorra,AND,2015,11.46217847,AD,Europe,3,Excellent
+Andorra,AND,2016,10.25583443,AD,Europe,3,Excellent
+Andorra,AND,2017,10.30762139,AD,Europe,3,Excellent
+Angola,AGO,2010,33.78724719,AO,Africa,1,Very Good
+Angola,AGO,2011,33.10419463,AO,Africa,1,Very Good
+Angola,AGO,2012,33.41549506,AO,Africa,1,Very Good
+Angola,AGO,2013,34.66392257,AO,Africa,1,Good
+Angola,AGO,2014,32.97402504,AO,Africa,1,Very Good
+Angola,AGO,2015,32.72987314,AO,Africa,1,Very Good
+Angola,AGO,2016,31.78538881,AO,Africa,1,Very Good
+Angola,AGO,2017,32.38850491,AO,Africa,1,Very Good
+Antigua and Barbuda,ATG,2010,22.52887611,AG,North America,4,Very Good
+Antigua and Barbuda,ATG,2011,23.1478617,AG,North America,4,Very Good
+Antigua and Barbuda,ATG,2012,21.47105044,AG,North America,4,Very Good
+Antigua and Barbuda,ATG,2013,20.73538507,AG,North America,4,Very Good
+Antigua and Barbuda,ATG,2014,19.72558362,AG,North America,4,Excellent
+Antigua and Barbuda,ATG,2015,19.69638779,AG,North America,4,Excellent
+Antigua and Barbuda,ATG,2016,18.46093032,AG,North America,4,Excellent
+Antigua and Barbuda,ATG,2017,18.62234285,AG,North America,4,Excellent
+Argentina,ARG,2010,16.85910062,AR,South America,5,Excellent
+Argentina,ARG,2011,17.38298213,AR,South America,5,Excellent
+Argentina,ARG,2012,16.13507182,AR,South America,5,Excellent
+Argentina,ARG,2013,15.59737515,AR,South America,5,Excellent
+Argentina,ARG,2014,14.46698041,AR,South America,5,Excellent
+Argentina,ARG,2015,14.6316259,AR,South America,5,Excellent
+Argentina,ARG,2016,13.75144403,AR,South America,5,Excellent
+Argentina,ARG,2017,13.31183395,AR,South America,5,Excellent
+Armenia,ARM,2010,37.53004093,AM,Asia,2,Good
+Armenia,ARM,2011,38.61227522,AM,Asia,2,Good
+Armenia,ARM,2012,37.18448464,AM,Asia,2,Good
+Armenia,ARM,2013,34.9372126,AM,Asia,2,Good
+Armenia,ARM,2014,33.08594982,AM,Asia,2,Very Good
+Armenia,ARM,2015,34.88143264,AM,Asia,2,Good
+Armenia,ARM,2016,32.22716773,AM,Asia,2,Very Good
+Armenia,ARM,2017,32.52811834,AM,Asia,2,Very Good
+Australia,AUS,2010,10.6188794,AU,Oceania,6,Excellent
+Australia,AUS,2011,11.04726492,AU,Oceania,6,Excellent
+Australia,AUS,2012,10.53708999,AU,Oceania,6,Excellent
+Australia,AUS,2013,9.98768389,AU,Oceania,6,Excellent
+Australia,AUS,2014,9.492978752,AU,Oceania,6,Excellent
+Australia,AUS,2015,9.320015289,AU,Oceania,6,Excellent
+Australia,AUS,2016,8.614508924,AU,Oceania,6,Excellent
+Australia,AUS,2017,8.550324401,AU,Oceania,6,Excellent
+Austria,AUT,2010,15.14913995,AT,Europe,3,Excellent
+Austria,AUT,2011,15.57337093,AT,Europe,3,Excellent
+Austria,AUT,2012,14.28233205,AT,Europe,3,Excellent
+Austria,AUT,2013,14.08161348,AT,Europe,3,Excellent
+Austria,AUT,2014,13.37922794,AT,Europe,3,Excellent
+Austria,AUT,2015,13.54109517,AT,Europe,3,Excellent
+Austria,AUT,2016,12.59681605,AT,Europe,3,Excellent
+Austria,AUT,2017,12.47796673,AT,Europe,3,Excellent
+Azerbaijan,AZE,2010,23.0476012,AZ,Asia,2,Very Good
+Azerbaijan,AZE,2011,23.6298688,AZ,Asia,2,Very Good
+Azerbaijan,AZE,2012,22.18081034,AZ,Asia,2,Very Good
+Azerbaijan,AZE,2013,22.27878046,AZ,Asia,2,Very Good
+Azerbaijan,AZE,2014,20.71006751,AZ,Asia,2,Very Good
+Azerbaijan,AZE,2015,21.41412281,AZ,Asia,2,Very Good
+Azerbaijan,AZE,2016,20.20815664,AZ,Asia,2,Very Good
+Azerbaijan,AZE,2017,19.92866362,AZ,Asia,2,Excellent
+"Bahamas, The",BHS,2010,21.1105137,BS,North America,4,Very Good
+"Bahamas, The",BHS,2011,21.77442494,BS,North America,4,Very Good
+"Bahamas, The",BHS,2012,20.31707569,BS,North America,4,Very Good
+"Bahamas, The",BHS,2013,19.90940079,BS,North America,4,Excellent
+"Bahamas, The",BHS,2014,18.49533328,BS,North America,4,Excellent
+"Bahamas, The",BHS,2015,18.88630621,BS,North America,4,Excellent
+"Bahamas, The",BHS,2016,17.65132069,BS,North America,4,Excellent
+"Bahamas, The",BHS,2017,17.36772049,BS,North America,4,Excellent
+Bahrain,BHR,2010,65.63088097,BH,Asia,2,Very Bad
+Bahrain,BHR,2011,63.73249929,BH,Asia,2,Very Bad
+Bahrain,BHR,2012,70.28748254,BH,Asia,2,Very Bad
+Bahrain,BHR,2013,67.79467818,BH,Asia,2,Very Bad
+Bahrain,BHR,2014,62.75854371,BH,Asia,2,Bad
+Bahrain,BHR,2015,72.60467743,BH,Asia,2,Very Bad
+Bahrain,BHR,2016,69.86418236,BH,Asia,2,Very Bad
+Bahrain,BHR,2017,70.81620768,BH,Asia,2,Very Bad
+Bangladesh,BGD,2010,70.76499566,BD,Asia,2,Very Bad
+Bangladesh,BGD,2011,70.2105489,BD,Asia,2,Very Bad
+Bangladesh,BGD,2012,70.79390882,BD,Asia,2,Very Bad
+Bangladesh,BGD,2013,65.64508289,BD,Asia,2,Very Bad
+Bangladesh,BGD,2014,68.3953774,BD,Asia,2,Very Bad
+Bangladesh,BGD,2015,66.96574924,BD,Asia,2,Very Bad
+Bangladesh,BGD,2016,60.12627467,BD,Asia,2,Bad
+Bangladesh,BGD,2017,60.84578458,BD,Asia,2,Bad
+Barbados,BRB,2010,28.21681441,BB,North America,4,Very Good
+Barbados,BRB,2011,29.30348967,BB,North America,4,Very Good
+Barbados,BRB,2012,27.03352956,BB,North America,4,Very Good
+Barbados,BRB,2013,26.23023054,BB,North America,4,Very Good
+Barbados,BRB,2014,25.18301447,BB,North America,4,Very Good
+Barbados,BRB,2015,24.68624082,BB,North America,4,Very Good
+Barbados,BRB,2016,23.45919984,BB,North America,4,Very Good
+Barbados,BRB,2017,23.0801758,BB,North America,4,Very Good
+Belarus,BLR,2010,23.31940958,BY,Europe,3,Very Good
+Belarus,BLR,2011,22.91114578,BY,Europe,3,Very Good
+Belarus,BLR,2012,21.64637226,BY,Europe,3,Very Good
+Belarus,BLR,2013,20.59045954,BY,Europe,3,Very Good
+Belarus,BLR,2014,19.76605366,BY,Europe,3,Excellent
+Belarus,BLR,2015,20.07627636,BY,Europe,3,Excellent
+Belarus,BLR,2016,18.87823952,BY,Europe,3,Excellent
+Belarus,BLR,2017,18.76557991,BY,Europe,3,Excellent
+Belgium,BEL,2010,16.00931923,BE,Europe,3,Excellent
+Belgium,BEL,2011,15.69844257,BE,Europe,3,Excellent
+Belgium,BEL,2012,14.74189365,BE,Europe,3,Excellent
+Belgium,BEL,2013,14.02266986,BE,Europe,3,Excellent
+Belgium,BEL,2014,13.2336213,BE,Europe,3,Excellent
+Belgium,BEL,2015,13.56652303,BE,Europe,3,Excellent
+Belgium,BEL,2016,12.83308751,BE,Europe,3,Excellent
+Belgium,BEL,2017,12.88651847,BE,Europe,3,Excellent
+Belize,BLZ,2010,28.2730542,BZ,North America,4,Very Good
+Belize,BLZ,2011,28.80044628,BZ,North America,4,Very Good
+Belize,BLZ,2012,27.40912213,BZ,North America,4,Very Good
+Belize,BLZ,2013,27.28443966,BZ,North America,4,Very Good
+Belize,BLZ,2014,24.42114809,BZ,North America,4,Very Good
+Belize,BLZ,2015,25.21682566,BZ,North America,4,Very Good
+Belize,BLZ,2016,23.06568424,BZ,North America,4,Very Good
+Belize,BLZ,2017,23.01189211,BZ,North America,4,Very Good
+Benin,BEN,2010,32.39296916,BJ,Africa,1,Very Good
+Benin,BEN,2011,32.58084623,BJ,Africa,1,Very Good
+Benin,BEN,2012,31.99200044,BJ,Africa,1,Very Good
+Benin,BEN,2013,31.44329865,BJ,Africa,1,Very Good
+Benin,BEN,2014,29.66045567,BJ,Africa,1,Very Good
+Benin,BEN,2015,40.47068263,BJ,Africa,1,Good
+Benin,BEN,2016,38.44770366,BJ,Africa,1,Good
+Benin,BEN,2017,38.99995876,BJ,Africa,1,Good
+Bermuda,BMU,2010,14.64738151,BM,North America,4,Excellent
+Bermuda,BMU,2011,14.84311292,BM,North America,4,Excellent
+Bermuda,BMU,2012,13.97908263,BM,North America,4,Excellent
+Bermuda,BMU,2013,13.47885095,BM,North America,4,Excellent
+Bermuda,BMU,2014,12.80641477,BM,North America,4,Excellent
+Bermuda,BMU,2015,12.41796108,BM,North America,4,Excellent
+Bermuda,BMU,2016,11.65994362,BM,North America,4,Excellent
+Bermuda,BMU,2017,11.64635919,BM,North America,4,Excellent
+Bhutan,BTN,2010,43.96188317,BT,Asia,2,Good
+Bhutan,BTN,2011,43.07170329,BT,Asia,2,Good
+Bhutan,BTN,2012,42.93227289,BT,Asia,2,Good
+Bhutan,BTN,2013,41.88190701,BT,Asia,2,Good
+Bhutan,BTN,2014,40.83967373,BT,Asia,2,Good
+Bhutan,BTN,2015,39.81863873,BT,Asia,2,Good
+Bhutan,BTN,2016,37.22436394,BT,Asia,2,Good
+Bhutan,BTN,2017,37.9265032,BT,Asia,2,Good
+Bolivia,BOL,2010,29.5728099,BO,South America,5,Very Good
+Bolivia,BOL,2011,27.90420439,BO,South America,5,Very Good
+Bolivia,BOL,2012,26.39024388,BO,South America,5,Very Good
+Bolivia,BOL,2013,26.09046897,BO,South America,5,Very Good
+Bolivia,BOL,2014,24.81882932,BO,South America,5,Very Good
+Bolivia,BOL,2015,22.47639992,BO,South America,5,Very Good
+Bolivia,BOL,2016,21.3866041,BO,South America,5,Very Good
+Bolivia,BOL,2017,21.5689866,BO,South America,5,Very Good
+Bosnia and Herzegovina,BIH,2010,32.30015609,BA,Europe,3,Very Good
+Bosnia and Herzegovina,BIH,2011,34.19186648,BA,Europe,3,Very Good
+Bosnia and Herzegovina,BIH,2012,31.77325971,BA,Europe,3,Very Good
+Bosnia and Herzegovina,BIH,2013,30.44623075,BA,Europe,3,Very Good
+Bosnia and Herzegovina,BIH,2014,28.77732513,BA,Europe,3,Very Good
+Bosnia and Herzegovina,BIH,2015,29.62283839,BA,Europe,3,Very Good
+Bosnia and Herzegovina,BIH,2016,27.59446709,BA,Europe,3,Very Good
+Bosnia and Herzegovina,BIH,2017,27.74766896,BA,Europe,3,Very Good
+Botswana,BWA,2010,25.72472072,BW,Africa,1,Very Good
+Botswana,BWA,2011,24.59211459,BW,Africa,1,Very Good
+Botswana,BWA,2012,24.85403894,BW,Africa,1,Very Good
+Botswana,BWA,2013,24.87425931,BW,Africa,1,Very Good
+Botswana,BWA,2014,24.15127779,BW,Africa,1,Very Good
+Botswana,BWA,2015,24.33025796,BW,Africa,1,Very Good
+Botswana,BWA,2016,23.63126742,BW,Africa,1,Very Good
+Botswana,BWA,2017,23.09438618,BW,Africa,1,Very Good
+Brazil,BRA,2010,15.95528506,BR,South America,5,Excellent
+Brazil,BRA,2011,15.91279799,BR,South America,5,Excellent
+Brazil,BRA,2012,15.28545576,BR,South America,5,Excellent
+Brazil,BRA,2013,14.60990092,BR,South America,5,Excellent
+Brazil,BRA,2014,13.98993477,BR,South America,5,Excellent
+Brazil,BRA,2015,13.59465562,BR,South America,5,Excellent
+Brazil,BRA,2016,12.65867601,BR,South America,5,Excellent
+Brazil,BRA,2017,12.70662947,BR,South America,5,Excellent
+Brunei Darussalam,BRN,2010,7.417004403,BN,Asia,2,Excellent
+Brunei Darussalam,BRN,2011,7.366187122,BN,Asia,2,Excellent
+Brunei Darussalam,BRN,2012,7.570822949,BN,Asia,2,Excellent
+Brunei Darussalam,BRN,2013,6.709489683,BN,Asia,2,Excellent
+Brunei Darussalam,BRN,2014,6.180830115,BN,Asia,2,Excellent
+Brunei Darussalam,BRN,2015,6.484179774,BN,Asia,2,Excellent
+Brunei Darussalam,BRN,2016,5.927600072,BN,Asia,2,Excellent
+Brunei Darussalam,BRN,2017,5.903065468,BN,Asia,2,Excellent
+Bulgaria,BGR,2010,22.75619549,BG,Europe,3,Very Good
+Bulgaria,BGR,2011,24.30032702,BG,Europe,3,Very Good
+Bulgaria,BGR,2012,22.64465578,BG,Europe,3,Very Good
+Bulgaria,BGR,2013,20.99963709,BG,Europe,3,Very Good
+Bulgaria,BGR,2014,20.74356996,BG,Europe,3,Very Good
+Bulgaria,BGR,2015,20.77642742,BG,Europe,3,Very Good
+Bulgaria,BGR,2016,19.28301303,BG,Europe,3,Excellent
+Bulgaria,BGR,2017,19.14913234,BG,Europe,3,Excellent
+Burkina Faso,BFA,2010,37.49132872,BF,Africa,1,Good
+Burkina Faso,BFA,2011,37.28137549,BF,Africa,1,Good
+Burkina Faso,BFA,2012,38.78415146,BF,Africa,1,Good
+Burkina Faso,BFA,2013,33.28720021,BF,Africa,1,Very Good
+Burkina Faso,BFA,2014,33.96909317,BF,Africa,1,Very Good
+Burkina Faso,BFA,2015,46.56216758,BF,Africa,1,Good
+Burkina Faso,BFA,2016,41.53724291,BF,Africa,1,Good
+Burkina Faso,BFA,2017,42.93559251,BF,Africa,1,Good
+Burundi,BDI,2010,38.38116825,BI,Africa,1,Good
+Burundi,BDI,2011,38.23619121,BI,Africa,1,Good
+Burundi,BDI,2012,41.01132776,BI,Africa,1,Good
+Burundi,BDI,2013,39.97107204,BI,Africa,1,Good
+Burundi,BDI,2014,39.38755864,BI,Africa,1,Good
+Burundi,BDI,2015,38.43088048,BI,Africa,1,Good
+Burundi,BDI,2016,38.65322349,BI,Africa,1,Good
+Burundi,BDI,2017,38.89626795,BI,Africa,1,Good
+Cabo Verde,CPV,2010,27.59644067,CV,Africa,1,Very Good
+Cabo Verde,CPV,2011,31.64177817,CV,Africa,1,Very Good
+Cabo Verde,CPV,2012,32.94099303,CV,Africa,1,Very Good
+Cabo Verde,CPV,2013,32.08584342,CV,Africa,1,Very Good
+Cabo Verde,CPV,2014,31.62108111,CV,Africa,1,Very Good
+Cabo Verde,CPV,2015,38.63361366,CV,Africa,1,Good
+Cabo Verde,CPV,2016,33.39233075,CV,Africa,1,Very Good
+Cabo Verde,CPV,2017,34.7787001,CV,Africa,1,Good
+Cambodia,KHM,2010,31.34313632,KH,Asia,2,Very Good
+Cambodia,KHM,2011,30.91962359,KH,Asia,2,Very Good
+Cambodia,KHM,2012,31.28373261,KH,Asia,2,Very Good
+Cambodia,KHM,2013,30.33652957,KH,Asia,2,Very Good
+Cambodia,KHM,2014,28.58336628,KH,Asia,2,Very Good
+Cambodia,KHM,2015,26.76923854,KH,Asia,2,Very Good
+Cambodia,KHM,2016,25.20287478,KH,Asia,2,Very Good
+Cambodia,KHM,2017,25.61429187,KH,Asia,2,Very Good
+Cameroon,CMR,2010,59.29340315,CM,Africa,1,Bad
+Cameroon,CMR,2011,58.07690148,CM,Africa,1,Bad
+Cameroon,CMR,2012,62.776697,CM,Africa,1,Bad
+Cameroon,CMR,2013,58.18633815,CM,Africa,1,Bad
+Cameroon,CMR,2014,56.71530558,CM,Africa,1,Bad
+Cameroon,CMR,2015,77.05174298,CM,Africa,1,Very Bad
+Cameroon,CMR,2016,73.20529127,CM,Africa,1,Very Bad
+Cameroon,CMR,2017,72.79309622,CM,Africa,1,Very Bad
+Canada,CAN,2010,8.384457262,CA,North America,4,Excellent
+Canada,CAN,2011,8.62446106,CA,North America,4,Excellent
+Canada,CAN,2012,8.107410495,CA,North America,4,Excellent
+Canada,CAN,2013,7.791636125,CA,North America,4,Excellent
+Canada,CAN,2014,7.428419864,CA,North America,4,Excellent
+Canada,CAN,2015,7.151582145,CA,North America,4,Excellent
+Canada,CAN,2016,6.549074761,CA,North America,4,Excellent
+Canada,CAN,2017,6.428383133,CA,North America,4,Excellent
+Central African Republic,CAF,2010,51.53331961,CF,Africa,1,Bad
+Central African Republic,CAF,2011,51.22953137,CF,Africa,1,Bad
+Central African Republic,CAF,2012,53.35883384,CF,Africa,1,Bad
+Central African Republic,CAF,2013,50.87491368,CF,Africa,1,Bad
+Central African Republic,CAF,2014,49.35636376,CF,Africa,1,Bad
+Central African Republic,CAF,2015,58.32609851,CF,Africa,1,Bad
+Central African Republic,CAF,2016,56.98542248,CF,Africa,1,Bad
+Central African Republic,CAF,2017,56.82849738,CF,Africa,1,Bad
+Chad,TCD,2010,56.58662749,TD,Africa,1,Bad
+Chad,TCD,2011,55.19515958,TD,Africa,1,Bad
+Chad,TCD,2012,58.67538804,TD,Africa,1,Bad
+Chad,TCD,2013,53.0564069,TD,Africa,1,Bad
+Chad,TCD,2014,51.24716851,TD,Africa,1,Bad
+Chad,TCD,2015,68.68239375,TD,Africa,1,Very Bad
+Chad,TCD,2016,64.77076912,TD,Africa,1,Very Bad
+Chad,TCD,2017,66.0292055,TD,Africa,1,Very Bad
+Chile,CHL,2010,25.89229169,CL,South America,5,Very Good
+Chile,CHL,2011,27.24586707,CL,South America,5,Very Good
+Chile,CHL,2012,25.0471553,CL,South America,5,Very Good
+Chile,CHL,2013,23.9366936,CL,South America,5,Very Good
+Chile,CHL,2014,22.86825181,CL,South America,5,Very Good
+Chile,CHL,2015,22.56979255,CL,South America,5,Very Good
+Chile,CHL,2016,20.87687041,CL,South America,5,Very Good
+Chile,CHL,2017,21.03629906,CL,South America,5,Very Good
+China,CHN,2010,69.47957041,CN,Asia,2,Very Bad
+China,CHN,2011,70.54202883,CN,Asia,2,Very Bad
+China,CHN,2012,63.82701684,CN,Asia,2,Very Bad
+China,CHN,2013,65.51455022,CN,Asia,2,Very Bad
+China,CHN,2014,59.76736751,CN,Asia,2,Bad
+China,CHN,2015,59.06342246,CN,Asia,2,Bad
+China,CHN,2016,52.21132204,CN,Asia,2,Bad
+China,CHN,2017,52.66459583,CN,Asia,2,Bad
+Colombia,COL,2010,21.49784542,CO,South America,5,Very Good
+Colombia,COL,2011,21.36777875,CO,South America,5,Very Good
+Colombia,COL,2012,20.53663622,CO,South America,5,Very Good
+Colombia,COL,2013,19.22334802,CO,South America,5,Excellent
+Colombia,COL,2014,18.34420526,CO,South America,5,Excellent
+Colombia,COL,2015,17.30028428,CO,South America,5,Excellent
+Colombia,COL,2016,16.58060037,CO,South America,5,Excellent
+Colombia,COL,2017,16.52721022,CO,South America,5,Excellent
+Comoros,COM,2010,20.66635788,KM,Africa,1,Very Good
+Comoros,COM,2011,21.02016044,KM,Africa,1,Very Good
+Comoros,COM,2012,21.2526292,KM,Africa,1,Very Good
+Comoros,COM,2013,21.04796184,KM,Africa,1,Very Good
+Comoros,COM,2014,21.50207199,KM,Africa,1,Very Good
+Comoros,COM,2015,20.71555746,KM,Africa,1,Very Good
+Comoros,COM,2016,20.48272773,KM,Africa,1,Very Good
+Comoros,COM,2017,20.5468246,KM,Africa,1,Very Good
+"Congo, Dem. Rep.",COD,2010,41.39803933,CD,Africa,1,Good
+"Congo, Dem. Rep.",COD,2011,41.49328795,CD,Africa,1,Good
+"Congo, Dem. Rep.",COD,2012,43.03677157,CD,Africa,1,Good
+"Congo, Dem. Rep.",COD,2013,44.49576095,CD,Africa,1,Good
+"Congo, Dem. Rep.",COD,2014,42.5494471,CD,Africa,1,Good
+"Congo, Dem. Rep.",COD,2015,44.93118592,CD,Africa,1,Good
+"Congo, Dem. Rep.",COD,2016,45.49950018,CD,Africa,1,Good
+"Congo, Dem. Rep.",COD,2017,44.9092636,CD,Africa,1,Good
+"Congo, Rep.",COG,2010,42.00909211,CG,Africa,1,Good
+"Congo, Rep.",COG,2011,44.15559345,CG,Africa,1,Good
+"Congo, Rep.",COG,2012,43.48998719,CG,Africa,1,Good
+"Congo, Rep.",COG,2013,46.12663732,CG,Africa,1,Good
+"Congo, Rep.",COG,2014,45.85281627,CG,Africa,1,Good
+"Congo, Rep.",COG,2015,44.14769514,CG,Africa,1,Good
+"Congo, Rep.",COG,2016,45.7110424,CG,Africa,1,Good
+"Congo, Rep.",COG,2017,46.63822028,CG,Africa,1,Good
+Costa Rica,CRI,2010,19.27295272,CR,North America,4,Excellent
+Costa Rica,CRI,2011,19.70213293,CR,North America,4,Excellent
+Costa Rica,CRI,2012,19.33512768,CR,North America,4,Excellent
+Costa Rica,CRI,2013,18.34151711,CR,North America,4,Excellent
+Costa Rica,CRI,2014,17.54363411,CR,North America,4,Excellent
+Costa Rica,CRI,2015,16.87928994,CR,North America,4,Excellent
+Costa Rica,CRI,2016,15.65581227,CR,North America,4,Excellent
+Costa Rica,CRI,2017,15.7259203,CR,North America,4,Excellent
+Cote d'Ivoire,CIV,2010,21.617705,CI,Africa,1,Very Good
+Cote d'Ivoire,CIV,2011,22.59307255,CI,Africa,1,Very Good
+Cote d'Ivoire,CIV,2012,22.49440447,CI,Africa,1,Very Good
+Cote d'Ivoire,CIV,2013,21.30554316,CI,Africa,1,Very Good
+Cote d'Ivoire,CIV,2014,20.90017764,CI,Africa,1,Very Good
+Cote d'Ivoire,CIV,2015,27.68749396,CI,Africa,1,Very Good
+Cote d'Ivoire,CIV,2016,26.67470411,CI,Africa,1,Very Good
+Cote d'Ivoire,CIV,2017,25.88626634,CI,Africa,1,Very Good
+Croatia,HRV,2010,21.33471864,HR,Europe,3,Very Good
+Croatia,HRV,2011,21.96600369,HR,Europe,3,Very Good
+Croatia,HRV,2012,20.2024228,HR,Europe,3,Very Good
+Croatia,HRV,2013,19.58696201,HR,Europe,3,Excellent
+Croatia,HRV,2014,18.43310352,HR,Europe,3,Excellent
+Croatia,HRV,2015,19.20668151,HR,Europe,3,Excellent
+Croatia,HRV,2016,17.78931891,HR,Europe,3,Excellent
+Croatia,HRV,2017,17.90177229,HR,Europe,3,Excellent
+Cuba,CUB,2010,23.93329773,CU,North America,4,Very Good
+Cuba,CUB,2011,24.78731963,CU,North America,4,Very Good
+Cuba,CUB,2012,23.23978714,CU,North America,4,Very Good
+Cuba,CUB,2013,22.85074328,CU,North America,4,Very Good
+Cuba,CUB,2014,21.29623433,CU,North America,4,Very Good
+Cuba,CUB,2015,20.86409957,CU,North America,4,Very Good
+Cuba,CUB,2016,19.73784135,CU,North America,4,Excellent
+Cuba,CUB,2017,19.7060474,CU,North America,4,Excellent
+Cyprus,CYP,2010,20.08186599,CY,Asia,2,Excellent
+Cyprus,CYP,2011,20.09096399,CY,Asia,2,Excellent
+Cyprus,CYP,2012,19.22484321,CY,Asia,2,Excellent
+Cyprus,CYP,2013,18.68454574,CY,Asia,2,Excellent
+Cyprus,CYP,2014,18.29352737,CY,Asia,2,Excellent
+Cyprus,CYP,2015,19.10134763,CY,Asia,2,Excellent
+Cyprus,CYP,2016,16.9580216,CY,Asia,2,Excellent
+Cyprus,CYP,2017,17.2944062,CY,Asia,2,Excellent
+Czech Republic,CZE,2010,20.67687047,CZ,Europe,3,Very Good
+Czech Republic,CZE,2011,20.08124665,CZ,Europe,3,Excellent
+Czech Republic,CZE,2012,18.74317608,CZ,Europe,3,Excellent
+Czech Republic,CZE,2013,17.996287,CZ,Europe,3,Excellent
+Czech Republic,CZE,2014,17.39121549,CZ,Europe,3,Excellent
+Czech Republic,CZE,2015,17.41645169,CZ,Europe,3,Excellent
+Czech Republic,CZE,2016,16.1005837,CZ,Europe,3,Excellent
+Czech Republic,CZE,2017,16.07124535,CZ,Europe,3,Excellent
+Denmark,DNK,2010,11.92914817,DK,Europe,3,Excellent
+Denmark,DNK,2011,12.66233138,DK,Europe,3,Excellent
+Denmark,DNK,2012,11.11552501,DK,Europe,3,Excellent
+Denmark,DNK,2013,10.82027884,DK,Europe,3,Excellent
+Denmark,DNK,2014,11.06670453,DK,Europe,3,Excellent
+Denmark,DNK,2015,10.65728566,DK,Europe,3,Excellent
+Denmark,DNK,2016,10.09597196,DK,Europe,3,Excellent
+Denmark,DNK,2017,10.02965344,DK,Europe,3,Excellent
+Djibouti,DJI,2010,38.24086927,DJ,Africa,1,Good
+Djibouti,DJI,2011,40.44183546,DJ,Africa,1,Good
+Djibouti,DJI,2012,39.94282079,DJ,Africa,1,Good
+Djibouti,DJI,2013,40.10377303,DJ,Africa,1,Good
+Djibouti,DJI,2014,41.25972754,DJ,Africa,1,Good
+Djibouti,DJI,2015,45.95080851,DJ,Africa,1,Good
+Djibouti,DJI,2016,45.86887513,DJ,Africa,1,Good
+Djibouti,DJI,2017,45.5496176,DJ,Africa,1,Good
+Dominica,DMA,2010,23.74074619,DM,North America,4,Very Good
+Dominica,DMA,2011,24.27612298,DM,North America,4,Very Good
+Dominica,DMA,2012,22.21579925,DM,North America,4,Very Good
+Dominica,DMA,2013,22.15106827,DM,North America,4,Very Good
+Dominica,DMA,2014,21.01030747,DM,North America,4,Very Good
+Dominica,DMA,2015,20.68878863,DM,North America,4,Very Good
+Dominica,DMA,2016,19.98814835,DM,North America,4,Excellent
+Dominica,DMA,2017,19.49315376,DM,North America,4,Excellent
+Dominican Republic,DOM,2010,16.87446546,DO,North America,4,Excellent
+Dominican Republic,DOM,2011,17.29977986,DO,North America,4,Excellent
+Dominican Republic,DOM,2012,16.15283991,DO,North America,4,Excellent
+Dominican Republic,DOM,2013,15.39695063,DO,North America,4,Excellent
+Dominican Republic,DOM,2014,14.1880737,DO,North America,4,Excellent
+Dominican Republic,DOM,2015,14.85822076,DO,North America,4,Excellent
+Dominican Republic,DOM,2016,13.69022772,DO,North America,4,Excellent
+Dominican Republic,DOM,2017,13.72632115,DO,North America,4,Excellent
+Ecuador,ECU,2010,19.97918812,EC,South America,5,Excellent
+Ecuador,ECU,2011,19.321995,EC,South America,5,Excellent
+Ecuador,ECU,2012,19.55771048,EC,South America,5,Excellent
+Ecuador,ECU,2013,18.1186093,EC,South America,5,Excellent
+Ecuador,ECU,2014,16.23418751,EC,South America,5,Excellent
+Ecuador,ECU,2015,15.69970761,EC,South America,5,Excellent
+Ecuador,ECU,2016,14.98157801,EC,South America,5,Excellent
+Ecuador,ECU,2017,14.88610066,EC,South America,5,Excellent
+"Egypt, Arab Rep.",EGY,2010,77.44661885,EG,Africa,1,Poor
+"Egypt, Arab Rep.",EGY,2011,70.78635638,EG,Africa,1,Very Bad
+"Egypt, Arab Rep.",EGY,2012,72.79056861,EG,Africa,1,Very Bad
+"Egypt, Arab Rep.",EGY,2013,76.21365354,EG,Africa,1,Very Bad
+"Egypt, Arab Rep.",EGY,2014,76.55960126,EG,Africa,1,Very Bad
+"Egypt, Arab Rep.",EGY,2015,88.21338765,EG,Africa,1,Poor
+"Egypt, Arab Rep.",EGY,2016,88.1485004,EG,Africa,1,Poor
+"Egypt, Arab Rep.",EGY,2017,86.99945205,EG,Africa,1,Poor
+El Salvador,SLV,2010,30.46194135,SV,North America,4,Very Good
+El Salvador,SLV,2011,33.62826513,SV,North America,4,Very Good
+El Salvador,SLV,2012,30.93397435,SV,North America,4,Very Good
+El Salvador,SLV,2013,30.75988157,SV,North America,4,Very Good
+El Salvador,SLV,2014,27.50259084,SV,North America,4,Very Good
+El Salvador,SLV,2015,26.47473092,SV,North America,4,Very Good
+El Salvador,SLV,2016,24.73648611,SV,North America,4,Very Good
+El Salvador,SLV,2017,24.47229229,SV,North America,4,Very Good
+Equatorial Guinea,GNQ,2010,46.18648655,GQ,Africa,1,Good
+Equatorial Guinea,GNQ,2011,46.85258767,GQ,Africa,1,Good
+Equatorial Guinea,GNQ,2012,45.23237247,GQ,Africa,1,Good
+Equatorial Guinea,GNQ,2013,43.62579322,GQ,Africa,1,Good
+Equatorial Guinea,GNQ,2014,44.30179969,GQ,Africa,1,Good
+Equatorial Guinea,GNQ,2015,52.63437057,GQ,Africa,1,Bad
+Equatorial Guinea,GNQ,2016,54.50903017,GQ,Africa,1,Bad
+Equatorial Guinea,GNQ,2017,53.24062104,GQ,Africa,1,Bad
+Eritrea,ERI,2010,45.2271386,ER,Africa,1,Good
+Eritrea,ERI,2011,45.25744675,ER,Africa,1,Good
+Eritrea,ERI,2012,46.13384645,ER,Africa,1,Good
+Eritrea,ERI,2013,47.62781596,ER,Africa,1,Good
+Eritrea,ERI,2014,44.37494629,ER,Africa,1,Good
+Eritrea,ERI,2015,49.82891214,ER,Africa,1,Bad
+Eritrea,ERI,2016,48.67093668,ER,Africa,1,Bad
+Eritrea,ERI,2017,48.03019868,ER,Africa,1,Good
+Estonia,EST,2010,8.519848763,EE,Europe,3,Excellent
+Estonia,EST,2011,8.442558919,EE,Europe,3,Excellent
+Estonia,EST,2012,7.810698651,EE,Europe,3,Excellent
+Estonia,EST,2013,7.482813578,EE,Europe,3,Excellent
+Estonia,EST,2014,7.705552572,EE,Europe,3,Excellent
+Estonia,EST,2015,7.003727673,EE,Europe,3,Excellent
+Estonia,EST,2016,6.821448031,EE,Europe,3,Excellent
+Estonia,EST,2017,6.732124015,EE,Europe,3,Excellent
+Eswatini,SWZ,2010,18.12819268,SZ,Africa,1,Excellent
+Eswatini,SWZ,2011,17.97331213,SZ,Africa,1,Excellent
+Eswatini,SWZ,2012,18.1823313,SZ,Africa,1,Excellent
+Eswatini,SWZ,2013,18.30780849,SZ,Africa,1,Excellent
+Eswatini,SWZ,2014,17.97877739,SZ,Africa,1,Excellent
+Eswatini,SWZ,2015,17.92480826,SZ,Africa,1,Excellent
+Eswatini,SWZ,2016,17.14854776,SZ,Africa,1,Excellent
+Eswatini,SWZ,2017,17.16878731,SZ,Africa,1,Excellent
+Ethiopia,ETH,2010,35.63414541,ET,Africa,1,Good
+Ethiopia,ETH,2011,36.31794195,ET,Africa,1,Good
+Ethiopia,ETH,2012,35.97384213,ET,Africa,1,Good
+Ethiopia,ETH,2013,35.88420536,ET,Africa,1,Good
+Ethiopia,ETH,2014,35.04359745,ET,Africa,1,Good
+Ethiopia,ETH,2015,38.85860469,ET,Africa,1,Good
+Ethiopia,ETH,2016,39.24503758,ET,Africa,1,Good
+Ethiopia,ETH,2017,38.97873776,ET,Africa,1,Good
+Fiji,FJI,2010,13.53381346,FJ,Oceania,6,Excellent
+Fiji,FJI,2011,13.83646142,FJ,Oceania,6,Excellent
+Fiji,FJI,2012,12.85205328,FJ,Oceania,6,Excellent
+Fiji,FJI,2013,12.14461761,FJ,Oceania,6,Excellent
+Fiji,FJI,2014,11.92289283,FJ,Oceania,6,Excellent
+Fiji,FJI,2015,11.64194513,FJ,Oceania,6,Excellent
+Fiji,FJI,2016,11.05934316,FJ,Oceania,6,Excellent
+Fiji,FJI,2017,10.8401599,FJ,Oceania,6,Excellent
+Finland,FIN,2010,7.190331396,FI,Europe,3,Excellent
+Finland,FIN,2011,7.283699708,FI,Europe,3,Excellent
+Finland,FIN,2012,6.601133581,FI,Europe,3,Excellent
+Finland,FIN,2013,6.278689198,FI,Europe,3,Excellent
+Finland,FIN,2014,6.468639868,FI,Europe,3,Excellent
+Finland,FIN,2015,6.063834353,FI,Europe,3,Excellent
+Finland,FIN,2016,5.893757483,FI,Europe,3,Excellent
+Finland,FIN,2017,5.861331001,FI,Europe,3,Excellent
+France,FRA,2010,14.84562127,FR,Europe,3,Excellent
+France,FRA,2011,14.87801926,FR,Europe,3,Excellent
+France,FRA,2012,13.83475371,FR,Europe,3,Excellent
+France,FRA,2013,13.5943087,FR,Europe,3,Excellent
+France,FRA,2014,12.28970307,FR,Europe,3,Excellent
+France,FRA,2015,12.74570798,FR,Europe,3,Excellent
+France,FRA,2016,11.85518422,FR,Europe,3,Excellent
+France,FRA,2017,11.81496362,FR,Europe,3,Excellent
+Gabon,GAB,2010,40.27757856,GA,Africa,1,Good
+Gabon,GAB,2011,41.13028375,GA,Africa,1,Good
+Gabon,GAB,2012,40.8140906,GA,Africa,1,Good
+Gabon,GAB,2013,40.72566252,GA,Africa,1,Good
+Gabon,GAB,2014,41.31956969,GA,Africa,1,Good
+Gabon,GAB,2015,44.09590117,GA,Africa,1,Good
+Gabon,GAB,2016,43.72065291,GA,Africa,1,Good
+Gabon,GAB,2017,44.38554846,GA,Africa,1,Good
+"Gambia, The",GMB,2010,30.20126341,GM,Africa,1,Very Good
+"Gambia, The",GMB,2011,29.26492223,GM,Africa,1,Very Good
+"Gambia, The",GMB,2012,30.72906478,GM,Africa,1,Very Good
+"Gambia, The",GMB,2013,29.80467273,GM,Africa,1,Very Good
+"Gambia, The",GMB,2014,30.62189539,GM,Africa,1,Very Good
+"Gambia, The",GMB,2015,36.30538082,GM,Africa,1,Good
+"Gambia, The",GMB,2016,32.61530208,GM,Africa,1,Very Good
+"Gambia, The",GMB,2017,33.98263855,GM,Africa,1,Very Good
+Georgia,GEO,2010,26.10123773,GE,Asia,2,Very Good
+Georgia,GEO,2011,26.78360332,GE,Asia,2,Very Good
+Georgia,GEO,2012,25.00284928,GE,Asia,2,Very Good
+Georgia,GEO,2013,23.91020353,GE,Asia,2,Very Good
+Georgia,GEO,2014,22.96670742,GE,Asia,2,Very Good
+Georgia,GEO,2015,24.25264627,GE,Asia,2,Very Good
+Georgia,GEO,2016,21.82963618,GE,Asia,2,Very Good
+Georgia,GEO,2017,22.19605462,GE,Asia,2,Very Good
+Germany,DEU,2010,15.18949496,DE,Europe,3,Excellent
+Germany,DEU,2011,14.66422844,DE,Europe,3,Excellent
+Germany,DEU,2012,13.57764226,DE,Europe,3,Excellent
+Germany,DEU,2013,13.19191946,DE,Europe,3,Excellent
+Germany,DEU,2014,12.75122057,DE,Europe,3,Excellent
+Germany,DEU,2015,12.82609758,DE,Europe,3,Excellent
+Germany,DEU,2016,11.93781112,DE,Europe,3,Excellent
+Germany,DEU,2017,12.02876736,DE,Europe,3,Excellent
+Ghana,GHA,2010,27.36828359,GH,Africa,1,Very Good
+Ghana,GHA,2011,28.21169897,GH,Africa,1,Very Good
+Ghana,GHA,2012,28.89742723,GH,Africa,1,Very Good
+Ghana,GHA,2013,27.81534006,GH,Africa,1,Very Good
+Ghana,GHA,2014,25.8895233,GH,Africa,1,Very Good
+Ghana,GHA,2015,34.68190071,GH,Africa,1,Good
+Ghana,GHA,2016,36.25265622,GH,Africa,1,Good
+Ghana,GHA,2017,34.7135141,GH,Africa,1,Good
+Greece,GRC,2010,19.06108814,GR,Europe,3,Excellent
+Greece,GRC,2011,20.00154124,GR,Europe,3,Excellent
+Greece,GRC,2012,18.4207689,GR,Europe,3,Excellent
+Greece,GRC,2013,17.77941628,GR,Europe,3,Excellent
+Greece,GRC,2014,17.36504185,GR,Europe,3,Excellent
+Greece,GRC,2015,17.74055711,GR,Europe,3,Excellent
+Greece,GRC,2016,16.3289203,GR,Europe,3,Excellent
+Greece,GRC,2017,16.21826638,GR,Europe,3,Excellent
+Greenland,GRL,2010,13.92232395,GL,North America,4,Excellent
+Greenland,GRL,2011,14.09660544,GL,North America,4,Excellent
+Greenland,GRL,2012,13.40669025,GL,North America,4,Excellent
+Greenland,GRL,2013,12.75796756,GL,North America,4,Excellent
+Greenland,GRL,2014,12.51054773,GL,North America,4,Excellent
+Greenland,GRL,2015,11.76203951,GL,North America,4,Excellent
+Greenland,GRL,2016,11.57250485,GL,North America,4,Excellent
+Greenland,GRL,2017,11.60217946,GL,North America,4,Excellent
+Grenada,GRD,2010,27.47290781,GD,North America,4,Very Good
+Grenada,GRD,2011,28.13951521,GD,North America,4,Very Good
+Grenada,GRD,2012,26.46891843,GD,North America,4,Very Good
+Grenada,GRD,2013,25.84730814,GD,North America,4,Very Good
+Grenada,GRD,2014,24.28703113,GD,North America,4,Very Good
+Grenada,GRD,2015,24.16278293,GD,North America,4,Very Good
+Grenada,GRD,2016,22.88869124,GD,North America,4,Very Good
+Grenada,GRD,2017,22.72268748,GD,North America,4,Very Good
+Guam,GUM,2010,13.88834049,GU,Oceania,6,Excellent
+Guam,GUM,2011,14.1035329,GU,Oceania,6,Excellent
+Guam,GUM,2012,13.24230178,GU,Oceania,6,Excellent
+Guam,GUM,2013,12.78879461,GU,Oceania,6,Excellent
+Guam,GUM,2014,12.02255289,GU,Oceania,6,Excellent
+Guam,GUM,2015,12.53178352,GU,Oceania,6,Excellent
+Guam,GUM,2016,11.65176784,GU,Oceania,6,Excellent
+Guam,GUM,2017,11.63440681,GU,Oceania,6,Excellent
+Guatemala,GTM,2010,29.98259025,GT,North America,4,Very Good
+Guatemala,GTM,2011,31.72733122,GT,North America,4,Very Good
+Guatemala,GTM,2012,29.88625889,GT,North America,4,Very Good
+Guatemala,GTM,2013,30.05682402,GT,North America,4,Very Good
+Guatemala,GTM,2014,26.52785542,GT,North America,4,Very Good
+Guatemala,GTM,2015,25.0727261,GT,North America,4,Very Good
+Guatemala,GTM,2016,23.79782877,GT,North America,4,Very Good
+Guatemala,GTM,2017,24.07064893,GT,North America,4,Very Good
+Guinea,GIN,2010,21.97102786,GN,Africa,1,Very Good
+Guinea,GIN,2011,22.44535934,GN,Africa,1,Very Good
+Guinea,GIN,2012,22.98996509,GN,Africa,1,Very Good
+Guinea,GIN,2013,21.25856145,GN,Africa,1,Very Good
+Guinea,GIN,2014,21.19667275,GN,Africa,1,Very Good
+Guinea,GIN,2015,26.94288524,GN,Africa,1,Very Good
+Guinea,GIN,2016,24.77771417,GN,Africa,1,Very Good
+Guinea,GIN,2017,26.0624902,GN,Africa,1,Very Good
+Guinea-Bissau,GNB,2010,26.83635957,GW,Africa,1,Very Good
+Guinea-Bissau,GNB,2011,27.38943995,GW,Africa,1,Very Good
+Guinea-Bissau,GNB,2012,27.0902178,GW,Africa,1,Very Good
+Guinea-Bissau,GNB,2013,26.52420728,GW,Africa,1,Very Good
+Guinea-Bissau,GNB,2014,26.94095978,GW,Africa,1,Very Good
+Guinea-Bissau,GNB,2015,31.79127202,GW,Africa,1,Very Good
+Guinea-Bissau,GNB,2016,29.58586773,GW,Africa,1,Very Good
+Guinea-Bissau,GNB,2017,29.77470228,GW,Africa,1,Very Good
+Guyana,GUY,2010,27.31186474,GY,South America,5,Very Good
+Guyana,GUY,2011,27.92942466,GY,South America,5,Very Good
+Guyana,GUY,2012,26.90129942,GY,South America,5,Very Good
+Guyana,GUY,2013,24.85550257,GY,South America,5,Very Good
+Guyana,GUY,2014,23.64826569,GY,South America,5,Very Good
+Guyana,GUY,2015,23.88788174,GY,South America,5,Very Good
+Guyana,GUY,2016,22.37149881,GY,South America,5,Very Good
+Guyana,GUY,2017,22.37557463,GY,South America,5,Very Good
+Haiti,HTI,2010,17.7952414,HT,North America,4,Excellent
+Haiti,HTI,2011,18.75791703,HT,North America,4,Excellent
+Haiti,HTI,2012,17.48024488,HT,North America,4,Excellent
+Haiti,HTI,2013,16.76701123,HT,North America,4,Excellent
+Haiti,HTI,2014,16.26222456,HT,North America,4,Excellent
+Haiti,HTI,2015,15.5402773,HT,North America,4,Excellent
+Haiti,HTI,2016,15.08648313,HT,North America,4,Excellent
+Haiti,HTI,2017,15.01982438,HT,North America,4,Excellent
+Honduras,HND,2010,26.88295242,HN,North America,4,Very Good
+Honduras,HND,2011,28.90074716,HN,North America,4,Very Good
+Honduras,HND,2012,27.44714935,HN,North America,4,Very Good
+Honduras,HND,2013,27.68413611,HN,North America,4,Very Good
+Honduras,HND,2014,23.16154008,HN,North America,4,Very Good
+Honduras,HND,2015,22.40619622,HN,North America,4,Very Good
+Honduras,HND,2016,21.08695992,HN,North America,4,Very Good
+Honduras,HND,2017,20.62885065,HN,North America,4,Very Good
+Hungary,HUN,2010,19.13552438,HU,Europe,3,Excellent
+Hungary,HUN,2011,19.36069,HU,Europe,3,Excellent
+Hungary,HUN,2012,17.52996008,HU,Europe,3,Excellent
+Hungary,HUN,2013,17.2318312,HU,Europe,3,Excellent
+Hungary,HUN,2014,16.31532793,HU,Europe,3,Excellent
+Hungary,HUN,2015,17.23213014,HU,Europe,3,Excellent
+Hungary,HUN,2016,15.88535024,HU,Europe,3,Excellent
+Hungary,HUN,2017,15.92604819,HU,Europe,3,Excellent
+Iceland,ISL,2010,7.856536667,IS,Europe,3,Excellent
+Iceland,ISL,2011,8.098884846,IS,Europe,3,Excellent
+Iceland,ISL,2012,7.33692926,IS,Europe,3,Excellent
+Iceland,ISL,2013,7.171207035,IS,Europe,3,Excellent
+Iceland,ISL,2014,6.948896646,IS,Europe,3,Excellent
+Iceland,ISL,2015,6.927968941,IS,Europe,3,Excellent
+Iceland,ISL,2016,6.60765416,IS,Europe,3,Excellent
+Iceland,ISL,2017,6.481147263,IS,Europe,3,Excellent
+India,IND,2010,95.75817945,IN,Asia,2,Poor
+India,IND,2011,97.59937863,IN,Asia,2,Poor
+India,IND,2012,88.1694406,IN,Asia,2,Poor
+India,IND,2013,91.80479161,IN,Asia,2,Poor
+India,IND,2014,89.62238269,IN,Asia,2,Poor
+India,IND,2015,89.3033343,IN,Asia,2,Poor
+India,IND,2016,89.67217693,IN,Asia,2,Poor
+India,IND,2017,90.87321047,IN,Asia,2,Poor
+Indonesia,IDN,2010,18.16928033,ID,Asia,2,Excellent
+Indonesia,IDN,2011,18.04965117,ID,Asia,2,Excellent
+Indonesia,IDN,2012,18.17016951,ID,Asia,2,Excellent
+Indonesia,IDN,2013,16.87918132,ID,Asia,2,Excellent
+Indonesia,IDN,2014,16.45463183,ID,Asia,2,Excellent
+Indonesia,IDN,2015,16.64028042,ID,Asia,2,Excellent
+Indonesia,IDN,2016,16.38415363,ID,Asia,2,Excellent
+Indonesia,IDN,2017,16.5026533,ID,Asia,2,Excellent
+"Iran, Islamic Rep.",IRN,2010,38.65150179,IR,Asia,2,Good
+"Iran, Islamic Rep.",IRN,2011,38.0496892,IR,Asia,2,Good
+"Iran, Islamic Rep.",IRN,2012,38.54205244,IR,Asia,2,Good
+"Iran, Islamic Rep.",IRN,2013,38.10109206,IR,Asia,2,Good
+"Iran, Islamic Rep.",IRN,2014,38.10949306,IR,Asia,2,Good
+"Iran, Islamic Rep.",IRN,2015,39.61053238,IR,Asia,2,Good
+"Iran, Islamic Rep.",IRN,2016,38.84130248,IR,Asia,2,Good
+"Iran, Islamic Rep.",IRN,2017,38.97876028,IR,Asia,2,Good
+Iraq,IRQ,2010,68.71140482,IQ,Asia,2,Very Bad
+Iraq,IRQ,2011,66.36260979,IQ,Asia,2,Very Bad
+Iraq,IRQ,2012,66.84207687,IQ,Asia,2,Very Bad
+Iraq,IRQ,2013,63.80269591,IQ,Asia,2,Very Bad
+Iraq,IRQ,2014,56.56703027,IQ,Asia,2,Bad
+Iraq,IRQ,2015,66.26503791,IQ,Asia,2,Very Bad
+Iraq,IRQ,2016,63.95479607,IQ,Asia,2,Very Bad
+Iraq,IRQ,2017,61.63623571,IQ,Asia,2,Bad
+Ireland,IRL,2010,9.976375087,IE,Europe,3,Excellent
+Ireland,IRL,2011,10.28507938,IE,Europe,3,Excellent
+Ireland,IRL,2012,9.522691993,IE,Europe,3,Excellent
+Ireland,IRL,2013,9.360153635,IE,Europe,3,Excellent
+Ireland,IRL,2014,8.750521533,IE,Europe,3,Excellent
+Ireland,IRL,2015,8.672473458,IE,Europe,3,Excellent
+Ireland,IRL,2016,8.279163345,IE,Europe,3,Excellent
+Ireland,IRL,2017,8.208576735,IE,Europe,3,Excellent
+Israel,ISR,2010,24.01923772,IL,Asia,2,Very Good
+Israel,ISR,2011,23.90468673,IL,Asia,2,Very Good
+Israel,ISR,2012,23.03884904,IL,Asia,2,Very Good
+Israel,ISR,2013,22.94633022,IL,Asia,2,Very Good
+Israel,ISR,2014,22.05914688,IL,Asia,2,Very Good
+Israel,ISR,2015,22.7797827,IL,Asia,2,Very Good
+Israel,ISR,2016,20.76570151,IL,Asia,2,Very Good
+Israel,ISR,2017,21.38110224,IL,Asia,2,Very Good
+Italy,ITA,2010,19.02523065,IT,Europe,3,Excellent
+Italy,ITA,2011,19.99426671,IT,Europe,3,Excellent
+Italy,ITA,2012,18.10524741,IT,Europe,3,Excellent
+Italy,ITA,2013,17.75772244,IT,Europe,3,Excellent
+Italy,ITA,2014,17.76927084,IT,Europe,3,Excellent
+Italy,ITA,2015,17.89144517,IT,Europe,3,Excellent
+Italy,ITA,2016,16.49037374,IT,Europe,3,Excellent
+Italy,ITA,2017,16.75071194,IT,Europe,3,Excellent
+Jamaica,JAM,2010,16.09171498,JM,North America,4,Excellent
+Jamaica,JAM,2011,16.54249891,JM,North America,4,Excellent
+Jamaica,JAM,2012,15.46047097,JM,North America,4,Excellent
+Jamaica,JAM,2013,14.93139975,JM,North America,4,Excellent
+Jamaica,JAM,2014,14.07433169,JM,North America,4,Excellent
+Jamaica,JAM,2015,14.1766593,JM,North America,4,Excellent
+Jamaica,JAM,2016,13.39596321,JM,North America,4,Excellent
+Jamaica,JAM,2017,13.40415053,JM,North America,4,Excellent
+Japan,JPN,2010,14.14233824,JP,Asia,2,Excellent
+Japan,JPN,2011,14.14103105,JP,Asia,2,Excellent
+Japan,JPN,2012,13.12887233,JP,Asia,2,Excellent
+Japan,JPN,2013,13.36255833,JP,Asia,2,Excellent
+Japan,JPN,2014,12.58661692,JP,Asia,2,Excellent
+Japan,JPN,2015,12.68745973,JP,Asia,2,Excellent
+Japan,JPN,2016,11.62392259,JP,Asia,2,Excellent
+Japan,JPN,2017,11.70477819,JP,Asia,2,Excellent
+Jordan,JOR,2010,33.55056636,JO,Asia,2,Very Good
+Jordan,JOR,2011,33.01726148,JO,Asia,2,Very Good
+Jordan,JOR,2012,33.01693524,JO,Asia,2,Very Good
+Jordan,JOR,2013,33.41761072,JO,Asia,2,Very Good
+Jordan,JOR,2014,33.20542058,JO,Asia,2,Very Good
+Jordan,JOR,2015,34.30544926,JO,Asia,2,Very Good
+Jordan,JOR,2016,33.17661668,JO,Asia,2,Very Good
+Jordan,JOR,2017,33.00608118,JO,Asia,2,Very Good
+Kazakhstan,KAZ,2010,15.91449319,KZ,Asia,2,Excellent
+Kazakhstan,KAZ,2011,15.24383546,KZ,Asia,2,Excellent
+Kazakhstan,KAZ,2012,14.48103768,KZ,Asia,2,Excellent
+Kazakhstan,KAZ,2013,14.5985643,KZ,Asia,2,Excellent
+Kazakhstan,KAZ,2014,13.74975351,KZ,Asia,2,Excellent
+Kazakhstan,KAZ,2015,14.38480208,KZ,Asia,2,Excellent
+Kazakhstan,KAZ,2016,13.08443846,KZ,Asia,2,Excellent
+Kazakhstan,KAZ,2017,13.82428836,KZ,Asia,2,Excellent
+Kenya,KEN,2010,28.15477084,KE,Africa,1,Very Good
+Kenya,KEN,2011,28.66288466,KE,Africa,1,Very Good
+Kenya,KEN,2012,29.37227988,KE,Africa,1,Very Good
+Kenya,KEN,2013,28.93534528,KE,Africa,1,Very Good
+Kenya,KEN,2014,28.94935013,KE,Africa,1,Very Good
+Kenya,KEN,2015,28.53628017,KE,Africa,1,Very Good
+Kenya,KEN,2016,28.58337727,KE,Africa,1,Very Good
+Kenya,KEN,2017,28.57837427,KE,Africa,1,Very Good
+Kiribati,KIR,2010,13.17504079,KI,Oceania,6,Excellent
+Kiribati,KIR,2011,13.35815463,KI,Oceania,6,Excellent
+Kiribati,KIR,2012,12.59423175,KI,Oceania,6,Excellent
+Kiribati,KIR,2013,12.32529751,KI,Oceania,6,Excellent
+Kiribati,KIR,2014,11.39374232,KI,Oceania,6,Excellent
+Kiribati,KIR,2015,11.51431847,KI,Oceania,6,Excellent
+Kiribati,KIR,2016,10.53783926,KI,Oceania,6,Excellent
+Kiribati,KIR,2017,10.64085586,KI,Oceania,6,Excellent
+"Korea, Dem. People’s Rep.",PRK,2010,39.34265696,KP,Asia,2,Good
+"Korea, Dem. People’s Rep.",PRK,2011,38.89336879,KP,Asia,2,Good
+"Korea, Dem. People’s Rep.",PRK,2012,36.40751446,KP,Asia,2,Good
+"Korea, Dem. People’s Rep.",PRK,2013,37.13485586,KP,Asia,2,Good
+"Korea, Dem. People’s Rep.",PRK,2014,35.2402154,KP,Asia,2,Good
+"Korea, Dem. People’s Rep.",PRK,2015,37.41178381,KP,Asia,2,Good
+"Korea, Dem. People’s Rep.",PRK,2016,31.75842415,KP,Asia,2,Very Good
+"Korea, Dem. People’s Rep.",PRK,2017,32.00745162,KP,Asia,2,Very Good
+"Korea, Rep.",KOR,2010,29.80201,KR,Asia,2,Very Good
+"Korea, Rep.",KOR,2011,29.68119454,KR,Asia,2,Very Good
+"Korea, Rep.",KOR,2012,27.91595259,KR,Asia,2,Very Good
+"Korea, Rep.",KOR,2013,29.46191729,KR,Asia,2,Very Good
+"Korea, Rep.",KOR,2014,27.21311037,KR,Asia,2,Very Good
+"Korea, Rep.",KOR,2015,28.2142437,KR,Asia,2,Very Good
+"Korea, Rep.",KOR,2016,25.09854067,KR,Asia,2,Very Good
+"Korea, Rep.",KOR,2017,25.03942539,KR,Asia,2,Very Good
+Kuwait,KWT,2010,62.74398094,KW,Asia,2,Bad
+Kuwait,KWT,2011,62.82540677,KW,Asia,2,Very Bad
+Kuwait,KWT,2012,64.07091103,KW,Asia,2,Very Bad
+Kuwait,KWT,2013,62.61130895,KW,Asia,2,Bad
+Kuwait,KWT,2014,55.62390422,KW,Asia,2,Bad
+Kuwait,KWT,2015,65.40607715,KW,Asia,2,Very Bad
+Kuwait,KWT,2016,60.84385161,KW,Asia,2,Bad
+Kuwait,KWT,2017,60.74515954,KW,Asia,2,Bad
+Kyrgyz Republic,KGZ,2010,27.26538617,KG,Asia,2,Very Good
+Kyrgyz Republic,KGZ,2011,27.51760207,KG,Asia,2,Very Good
+Kyrgyz Republic,KGZ,2012,25.48983252,KG,Asia,2,Very Good
+Kyrgyz Republic,KGZ,2013,25.44035534,KG,Asia,2,Very Good
+Kyrgyz Republic,KGZ,2014,23.29819153,KG,Asia,2,Very Good
+Kyrgyz Republic,KGZ,2015,24.34473551,KG,Asia,2,Very Good
+Kyrgyz Republic,KGZ,2016,23.1955558,KG,Asia,2,Very Good
+Kyrgyz Republic,KGZ,2017,22.73776806,KG,Asia,2,Very Good
+Lao PDR,LAO,2010,31.73199577,LA,Asia,2,Very Good
+Lao PDR,LAO,2011,29.66966026,LA,Asia,2,Very Good
+Lao PDR,LAO,2012,30.29741812,LA,Asia,2,Very Good
+Lao PDR,LAO,2013,30.25948938,LA,Asia,2,Very Good
+Lao PDR,LAO,2014,28.39017177,LA,Asia,2,Very Good
+Lao PDR,LAO,2015,26.13948876,LA,Asia,2,Very Good
+Lao PDR,LAO,2016,25.80101805,LA,Asia,2,Very Good
+Lao PDR,LAO,2017,25.10953834,LA,Asia,2,Very Good
+Latvia,LVA,2010,17.11506451,LV,Europe,3,Excellent
+Latvia,LVA,2011,16.5726763,LV,Europe,3,Excellent
+Latvia,LVA,2012,15.59855973,LV,Europe,3,Excellent
+Latvia,LVA,2013,14.88430819,LV,Europe,3,Excellent
+Latvia,LVA,2014,14.8790851,LV,Europe,3,Excellent
+Latvia,LVA,2015,13.9682016,LV,Europe,3,Excellent
+Latvia,LVA,2016,13.44747197,LV,Europe,3,Excellent
+Latvia,LVA,2017,13.42645752,LV,Europe,3,Excellent
+Lebanon,LBN,2010,30.89212513,LB,Asia,2,Very Good
+Lebanon,LBN,2011,30.06910747,LB,Asia,2,Very Good
+Lebanon,LBN,2012,30.10805188,LB,Asia,2,Very Good
+Lebanon,LBN,2013,30.58809767,LB,Asia,2,Very Good
+Lebanon,LBN,2014,30.44456692,LB,Asia,2,Very Good
+Lebanon,LBN,2015,31.22929528,LB,Asia,2,Very Good
+Lebanon,LBN,2016,30.17186865,LB,Asia,2,Very Good
+Lebanon,LBN,2017,30.62111051,LB,Asia,2,Very Good
+Lesotho,LSO,2010,32.24059762,LS,Africa,1,Very Good
+Lesotho,LSO,2011,31.3547412,LS,Africa,1,Very Good
+Lesotho,LSO,2012,31.21324307,LS,Africa,1,Very Good
+Lesotho,LSO,2013,32.14869782,LS,Africa,1,Very Good
+Lesotho,LSO,2014,33.08010261,LS,Africa,1,Very Good
+Lesotho,LSO,2015,30.88497707,LS,Africa,1,Very Good
+Lesotho,LSO,2016,28.33683335,LS,Africa,1,Very Good
+Lesotho,LSO,2017,28.02865352,LS,Africa,1,Very Good
+Liberia,LBR,2010,15.24919691,LR,Africa,1,Excellent
+Liberia,LBR,2011,16.14705151,LR,Africa,1,Excellent
+Liberia,LBR,2012,16.28820747,LR,Africa,1,Excellent
+Liberia,LBR,2013,15.38285732,LR,Africa,1,Excellent
+Liberia,LBR,2014,14.94227071,LR,Africa,1,Excellent
+Liberia,LBR,2015,18.21280418,LR,Africa,1,Excellent
+Liberia,LBR,2016,17.88677836,LR,Africa,1,Excellent
+Liberia,LBR,2017,17.98411246,LR,Africa,1,Excellent
+Libya,LBY,2010,50.1472295,LY,Africa,1,Bad
+Libya,LBY,2011,44.63173396,LY,Africa,1,Good
+Libya,LBY,2012,44.9113635,LY,Africa,1,Good
+Libya,LBY,2013,49.2794823,LY,Africa,1,Bad
+Libya,LBY,2014,47.50123391,LY,Africa,1,Good
+Libya,LBY,2015,51.53264014,LY,Africa,1,Bad
+Libya,LBY,2016,52.1292063,LY,Africa,1,Bad
+Libya,LBY,2017,54.25468179,LY,Africa,1,Bad
+Lithuania,LTU,2010,14.97106496,LT,Europe,3,Excellent
+Lithuania,LTU,2011,14.50968278,LT,Europe,3,Excellent
+Lithuania,LTU,2012,13.78452468,LT,Europe,3,Excellent
+Lithuania,LTU,2013,12.98119203,LT,Europe,3,Excellent
+Lithuania,LTU,2014,12.84519425,LT,Europe,3,Excellent
+Lithuania,LTU,2015,12.45503512,LT,Europe,3,Excellent
+Lithuania,LTU,2016,11.82161558,LT,Europe,3,Excellent
+Lithuania,LTU,2017,11.85328236,LT,Europe,3,Excellent
+Luxembourg,LUX,2010,12.95878369,LU,Europe,3,Excellent
+Luxembourg,LUX,2011,12.68599568,LU,Europe,3,Excellent
+Luxembourg,LUX,2012,11.77557609,LU,Europe,3,Excellent
+Luxembourg,LUX,2013,11.6053841,LU,Europe,3,Excellent
+Luxembourg,LUX,2014,10.85761339,LU,Europe,3,Excellent
+Luxembourg,LUX,2015,11.00665465,LU,Europe,3,Excellent
+Luxembourg,LUX,2016,10.31198129,LU,Europe,3,Excellent
+Luxembourg,LUX,2017,10.3646374,LU,Europe,3,Excellent
+Madagascar,MDG,2010,22.66201053,MG,Africa,1,Very Good
+Madagascar,MDG,2011,23.36285963,MG,Africa,1,Very Good
+Madagascar,MDG,2012,22.71642527,MG,Africa,1,Very Good
+Madagascar,MDG,2013,23.90916176,MG,Africa,1,Very Good
+Madagascar,MDG,2014,23.51776666,MG,Africa,1,Very Good
+Madagascar,MDG,2015,22.95040117,MG,Africa,1,Very Good
+Madagascar,MDG,2016,22.89570824,MG,Africa,1,Very Good
+Madagascar,MDG,2017,22.54228288,MG,Africa,1,Very Good
+Malawi,MWI,2010,25.6961984,MW,Africa,1,Very Good
+Malawi,MWI,2011,25.16500891,MW,Africa,1,Very Good
+Malawi,MWI,2012,25.73840151,MW,Africa,1,Very Good
+Malawi,MWI,2013,24.68347878,MW,Africa,1,Very Good
+Malawi,MWI,2014,25.19822884,MW,Africa,1,Very Good
+Malawi,MWI,2015,24.53742932,MW,Africa,1,Very Good
+Malawi,MWI,2016,23.09261542,MW,Africa,1,Very Good
+Malawi,MWI,2017,23.56592147,MW,Africa,1,Very Good
+Malaysia,MYS,2010,18.59375306,MY,Asia,2,Excellent
+Malaysia,MYS,2011,19.20260869,MY,Asia,2,Excellent
+Malaysia,MYS,2012,19.1822225,MY,Asia,2,Excellent
+Malaysia,MYS,2013,17.55444704,MY,Asia,2,Excellent
+Malaysia,MYS,2014,16.92315529,MY,Asia,2,Excellent
+Malaysia,MYS,2015,17.44091023,MY,Asia,2,Excellent
+Malaysia,MYS,2016,15.75128619,MY,Asia,2,Excellent
+Malaysia,MYS,2017,16.03580871,MY,Asia,2,Excellent
+Maldives,MDV,2010,11.30982939,MV,Asia,2,Excellent
+Maldives,MDV,2011,11.78963462,MV,Asia,2,Excellent
+Maldives,MDV,2012,11.1574823,MV,Asia,2,Excellent
+Maldives,MDV,2013,10.56967928,MV,Asia,2,Excellent
+Maldives,MDV,2014,9.921230863,MV,Asia,2,Excellent
+Maldives,MDV,2015,9.37394394,MV,Asia,2,Excellent
+Maldives,MDV,2016,7.972428925,MV,Asia,2,Excellent
+Maldives,MDV,2017,7.795820799,MV,Asia,2,Excellent
+Mali,MLI,2010,36.39765973,ML,Africa,1,Good
+Mali,MLI,2011,35.14164437,ML,Africa,1,Good
+Mali,MLI,2012,34.7002263,ML,Africa,1,Good
+Mali,MLI,2013,32.30682338,ML,Africa,1,Very Good
+Mali,MLI,2014,33.91611574,ML,Africa,1,Very Good
+Mali,MLI,2015,41.92692766,ML,Africa,1,Good
+Mali,MLI,2016,38.48039528,ML,Africa,1,Good
+Mali,MLI,2017,38.52660616,ML,Africa,1,Good
+Malta,MLT,2010,16.4493999,MT,Europe,3,Excellent
+Malta,MLT,2011,16.64430398,MT,Europe,3,Excellent
+Malta,MLT,2012,15.39716095,MT,Europe,3,Excellent
+Malta,MLT,2013,15.28194422,MT,Europe,3,Excellent
+Malta,MLT,2014,14.43540357,MT,Europe,3,Excellent
+Malta,MLT,2015,14.72246254,MT,Europe,3,Excellent
+Malta,MLT,2016,13.81139444,MT,Europe,3,Excellent
+Malta,MLT,2017,13.90954337,MT,Europe,3,Excellent
+Marshall Islands,MHL,2010,12.94670836,MH,Oceania,6,Excellent
+Marshall Islands,MHL,2011,12.93217057,MH,Oceania,6,Excellent
+Marshall Islands,MHL,2012,12.12353358,MH,Oceania,6,Excellent
+Marshall Islands,MHL,2013,11.87438859,MH,Oceania,6,Excellent
+Marshall Islands,MHL,2014,11.07022018,MH,Oceania,6,Excellent
+Marshall Islands,MHL,2015,10.83766846,MH,Oceania,6,Excellent
+Marshall Islands,MHL,2016,10.15200199,MH,Oceania,6,Excellent
+Marshall Islands,MHL,2017,10.24133222,MH,Oceania,6,Excellent
+Mauritania,MRT,2010,39.63741338,MR,Africa,1,Good
+Mauritania,MRT,2011,40.04314497,MR,Africa,1,Good
+Mauritania,MRT,2012,42.34351169,MR,Africa,1,Good
+Mauritania,MRT,2013,40.21579155,MR,Africa,1,Good
+Mauritania,MRT,2014,43.11078408,MR,Africa,1,Good
+Mauritania,MRT,2015,49.49825592,MR,Africa,1,Bad
+Mauritania,MRT,2016,46.66758772,MR,Africa,1,Good
+Mauritania,MRT,2017,47.42299178,MR,Africa,1,Good
+Mauritius,MUS,2010,15.1947729,MU,Africa,1,Excellent
+Mauritius,MUS,2011,15.20170165,MU,Africa,1,Excellent
+Mauritius,MUS,2012,15.24585596,MU,Africa,1,Excellent
+Mauritius,MUS,2013,15.55617651,MU,Africa,1,Excellent
+Mauritius,MUS,2014,15.29264823,MU,Africa,1,Excellent
+Mauritius,MUS,2015,14.44195579,MU,Africa,1,Excellent
+Mauritius,MUS,2016,14.34637947,MU,Africa,1,Excellent
+Mauritius,MUS,2017,14.45782732,MU,Africa,1,Excellent
+Mexico,MEX,2010,26.365439,MX,North America,4,Very Good
+Mexico,MEX,2011,27.74129679,MX,North America,4,Very Good
+Mexico,MEX,2012,25.98165883,MX,North America,4,Very Good
+Mexico,MEX,2013,25.44908967,MX,North America,4,Very Good
+Mexico,MEX,2014,23.09968975,MX,North America,4,Very Good
+Mexico,MEX,2015,22.13299585,MX,North America,4,Very Good
+Mexico,MEX,2016,20.70682854,MX,North America,4,Very Good
+Mexico,MEX,2017,20.92111579,MX,North America,4,Very Good
+"Micronesia, Fed. Sts.",FSM,2010,13.7492452,FM,Oceania,6,Excellent
+"Micronesia, Fed. Sts.",FSM,2011,13.7316521,FM,Oceania,6,Excellent
+"Micronesia, Fed. Sts.",FSM,2012,12.97443872,FM,Oceania,6,Excellent
+"Micronesia, Fed. Sts.",FSM,2013,12.74251533,FM,Oceania,6,Excellent
+"Micronesia, Fed. Sts.",FSM,2014,11.86686885,FM,Oceania,6,Excellent
+"Micronesia, Fed. Sts.",FSM,2015,11.72598465,FM,Oceania,6,Excellent
+"Micronesia, Fed. Sts.",FSM,2016,11.13451107,FM,Oceania,6,Excellent
+"Micronesia, Fed. Sts.",FSM,2017,11.28339944,FM,Oceania,6,Excellent
+Moldova,MDA,2010,19.11610415,MD,Europe,3,Excellent
+Moldova,MDA,2011,19.92486817,MD,Europe,3,Excellent
+Moldova,MDA,2012,18.40928474,MD,Europe,3,Excellent
+Moldova,MDA,2013,17.43239973,MD,Europe,3,Excellent
+Moldova,MDA,2014,16.72646105,MD,Europe,3,Excellent
+Moldova,MDA,2015,17.07913959,MD,Europe,3,Excellent
+Moldova,MDA,2016,16.36379754,MD,Europe,3,Excellent
+Moldova,MDA,2017,16.25103271,MD,Europe,3,Excellent
+Mongolia,MNG,2010,43.30465329,MN,Asia,2,Good
+Mongolia,MNG,2011,45.36017005,MN,Asia,2,Good
+Mongolia,MNG,2012,42.6543748,MN,Asia,2,Good
+Mongolia,MNG,2013,42.32131127,MN,Asia,2,Good
+Mongolia,MNG,2014,39.29514006,MN,Asia,2,Good
+Mongolia,MNG,2015,42.51464988,MN,Asia,2,Good
+Mongolia,MNG,2016,38.22281711,MN,Asia,2,Good
+Mongolia,MNG,2017,40.11284905,MN,Asia,2,Good
+Montenegro,MNE,2010,25.0554063,ME,Europe,3,Very Good
+Montenegro,MNE,2011,26.62922388,ME,Europe,3,Very Good
+Montenegro,MNE,2012,24.68030289,ME,Europe,3,Very Good
+Montenegro,MNE,2013,23.27422599,ME,Europe,3,Very Good
+Montenegro,MNE,2014,21.94705168,ME,Europe,3,Very Good
+Montenegro,MNE,2015,22.55969129,ME,Europe,3,Very Good
+Montenegro,MNE,2016,20.92405137,ME,Europe,3,Very Good
+Montenegro,MNE,2017,20.78181355,ME,Europe,3,Very Good
+Morocco,MAR,2010,29.6489603,MA,Africa,1,Very Good
+Morocco,MAR,2011,29.26656426,MA,Africa,1,Very Good
+Morocco,MAR,2012,27.79028358,MA,Africa,1,Very Good
+Morocco,MAR,2013,29.25951913,MA,Africa,1,Very Good
+Morocco,MAR,2014,29.94944999,MA,Africa,1,Very Good
+Morocco,MAR,2015,31.44008691,MA,Africa,1,Very Good
+Morocco,MAR,2016,32.93537423,MA,Africa,1,Very Good
+Morocco,MAR,2017,32.59354146,MA,Africa,1,Very Good
+Mozambique,MOZ,2010,23.56146872,MZ,Africa,1,Very Good
+Mozambique,MOZ,2011,22.6090715,MZ,Africa,1,Very Good
+Mozambique,MOZ,2012,22.86760109,MZ,Africa,1,Very Good
+Mozambique,MOZ,2013,22.63615999,MZ,Africa,1,Very Good
+Mozambique,MOZ,2014,22.61416414,MZ,Africa,1,Very Good
+Mozambique,MOZ,2015,21.90588194,MZ,Africa,1,Very Good
+Mozambique,MOZ,2016,21.47182554,MZ,Africa,1,Very Good
+Mozambique,MOZ,2017,21.29869546,MZ,Africa,1,Very Good
+Myanmar,MMR,2010,44.05611525,MM,Asia,2,Good
+Myanmar,MMR,2011,43.61990347,MM,Asia,2,Good
+Myanmar,MMR,2012,42.5228124,MM,Asia,2,Good
+Myanmar,MMR,2013,42.88286944,MM,Asia,2,Good
+Myanmar,MMR,2014,40.28896854,MM,Asia,2,Good
+Myanmar,MMR,2015,38.51378205,MM,Asia,2,Good
+Myanmar,MMR,2016,36.033701,MM,Asia,2,Good
+Myanmar,MMR,2017,35.55745292,MM,Asia,2,Good
+Namibia,NAM,2010,27.65989633,NA,Africa,1,Very Good
+Namibia,NAM,2011,27.01015451,NA,Africa,1,Very Good
+Namibia,NAM,2012,26.79870806,NA,Africa,1,Very Good
+Namibia,NAM,2013,27.09281609,NA,Africa,1,Very Good
+Namibia,NAM,2014,26.01812153,NA,Africa,1,Very Good
+Namibia,NAM,2015,26.91001673,NA,Africa,1,Very Good
+Namibia,NAM,2016,25.55214196,NA,Africa,1,Very Good
+Namibia,NAM,2017,25.3587654,NA,Africa,1,Very Good
+Nepal,NPL,2010,100.7844279,NP,Asia,2,Poor
+Nepal,NPL,2011,100.7660607,NP,Asia,2,Poor
+Nepal,NPL,2012,96.96329149,NP,Asia,2,Poor
+Nepal,NPL,2013,95.31398561,NP,Asia,2,Poor
+Nepal,NPL,2014,98.11601657,NP,Asia,2,Poor
+Nepal,NPL,2015,96.25276818,NP,Asia,2,Poor
+Nepal,NPL,2016,98.05471403,NP,Asia,2,Poor
+Nepal,NPL,2017,99.73437372,NP,Asia,2,Poor
+Netherlands,NLD,2010,15.23243025,NL,Europe,3,Excellent
+Netherlands,NLD,2011,14.98813864,NL,Europe,3,Excellent
+Netherlands,NLD,2012,13.81241373,NL,Europe,3,Excellent
+Netherlands,NLD,2013,13.04314511,NL,Europe,3,Excellent
+Netherlands,NLD,2014,12.82879707,NL,Europe,3,Excellent
+Netherlands,NLD,2015,12.93210515,NL,Europe,3,Excellent
+Netherlands,NLD,2016,12.02524278,NL,Europe,3,Excellent
+Netherlands,NLD,2017,12.03440807,NL,Europe,3,Excellent
+New Zealand,NZL,2010,7.152865691,NZ,Oceania,6,Excellent
+New Zealand,NZL,2011,7.420696435,NZ,Oceania,6,Excellent
+New Zealand,NZL,2012,6.83583564,NZ,Oceania,6,Excellent
+New Zealand,NZL,2013,6.781885551,NZ,Oceania,6,Excellent
+New Zealand,NZL,2014,6.357903512,NZ,Oceania,6,Excellent
+New Zealand,NZL,2015,6.33043381,NZ,Oceania,6,Excellent
+New Zealand,NZL,2016,5.987363154,NZ,Oceania,6,Excellent
+New Zealand,NZL,2017,5.956001129,NZ,Oceania,6,Excellent
+Nicaragua,NIC,2010,22.4922691,NI,North America,4,Very Good
+Nicaragua,NIC,2011,22.47952015,NI,North America,4,Very Good
+Nicaragua,NIC,2012,22.35271161,NI,North America,4,Very Good
+Nicaragua,NIC,2013,21.92907575,NI,North America,4,Very Good
+Nicaragua,NIC,2014,19.38772134,NI,North America,4,Excellent
+Nicaragua,NIC,2015,18.56913277,NI,North America,4,Excellent
+Nicaragua,NIC,2016,17.7277291,NI,North America,4,Excellent
+Nicaragua,NIC,2017,17.61418045,NI,North America,4,Excellent
+Niger,NER,2010,69.15017669,NE,Africa,1,Very Bad
+Niger,NER,2011,72.98276678,NE,Africa,1,Very Bad
+Niger,NER,2012,72.54464459,NE,Africa,1,Very Bad
+Niger,NER,2013,63.03171725,NE,Africa,1,Very Bad
+Niger,NER,2014,60.54135722,NE,Africa,1,Bad
+Niger,NER,2015,87.28128201,NE,Africa,1,Poor
+Niger,NER,2016,87.70847201,NE,Africa,1,Poor
+Niger,NER,2017,94.05381768,NE,Africa,1,Poor
+Nigeria,NGA,2010,52.60906391,NG,Africa,1,Bad
+Nigeria,NGA,2011,50.97308923,NG,Africa,1,Bad
+Nigeria,NGA,2012,56.1296377,NG,Africa,1,Bad
+Nigeria,NGA,2013,49.74068894,NG,Africa,1,Bad
+Nigeria,NGA,2014,48.63337361,NG,Africa,1,Bad
+Nigeria,NGA,2015,75.39899187,NG,Africa,1,Very Bad
+Nigeria,NGA,2016,71.369601,NG,Africa,1,Very Bad
+Nigeria,NGA,2017,71.79817438,NG,Africa,1,Very Bad
+North Macedonia,MKD,2010,34.45696977,MK,Europe,3,Good
+North Macedonia,MKD,2011,38.0831195,MK,Europe,3,Good
+North Macedonia,MKD,2012,34.65781455,MK,Europe,3,Good
+North Macedonia,MKD,2013,32.01504863,MK,Europe,3,Very Good
+North Macedonia,MKD,2014,31.79054123,MK,Europe,3,Very Good
+North Macedonia,MKD,2015,31.97598914,MK,Europe,3,Very Good
+North Macedonia,MKD,2016,29.59326907,MK,Europe,3,Very Good
+North Macedonia,MKD,2017,29.72694451,MK,Europe,3,Very Good
+Northern Mariana Islands,MNP,2010,11.926381,MP,Oceania,6,Excellent
+Northern Mariana Islands,MNP,2011,12.19962657,MP,Oceania,6,Excellent
+Northern Mariana Islands,MNP,2012,11.43999611,MP,Oceania,6,Excellent
+Northern Mariana Islands,MNP,2013,10.96502021,MP,Oceania,6,Excellent
+Northern Mariana Islands,MNP,2014,10.3134722,MP,Oceania,6,Excellent
+Northern Mariana Islands,MNP,2015,10.39771204,MP,Oceania,6,Excellent
+Northern Mariana Islands,MNP,2016,9.91775575,MP,Oceania,6,Excellent
+Northern Mariana Islands,MNP,2017,9.892981129,MP,Oceania,6,Excellent
+Norway,NOR,2010,8.341507223,NO,Europe,3,Excellent
+Norway,NOR,2011,8.853510781,NO,Europe,3,Excellent
+Norway,NOR,2012,7.925281241,NO,Europe,3,Excellent
+Norway,NOR,2013,7.633674824,NO,Europe,3,Excellent
+Norway,NOR,2014,7.670895927,NO,Europe,3,Excellent
+Norway,NOR,2015,7.242775336,NO,Europe,3,Excellent
+Norway,NOR,2016,6.95945733,NO,Europe,3,Excellent
+Norway,NOR,2017,6.956519803,NO,Europe,3,Excellent
+Oman,OMN,2010,37.51533394,OM,Asia,2,Good
+Oman,OMN,2011,39.10379482,OM,Asia,2,Good
+Oman,OMN,2012,40.73328348,OM,Asia,2,Good
+Oman,OMN,2013,41.0527687,OM,Asia,2,Good
+Oman,OMN,2014,37.71088051,OM,Asia,2,Good
+Oman,OMN,2015,42.62758972,OM,Asia,2,Good
+Oman,OMN,2016,41.78219181,OM,Asia,2,Good
+Oman,OMN,2017,41.11523827,OM,Asia,2,Good
+Pakistan,PAK,2010,68.00519044,PK,Asia,2,Very Bad
+Pakistan,PAK,2011,68.54493561,PK,Asia,2,Very Bad
+Pakistan,PAK,2012,62.37664629,PK,Asia,2,Bad
+Pakistan,PAK,2013,61.02216287,PK,Asia,2,Bad
+Pakistan,PAK,2014,59.51836271,PK,Asia,2,Bad
+Pakistan,PAK,2015,60.08589291,PK,Asia,2,Bad
+Pakistan,PAK,2016,58.63276393,PK,Asia,2,Bad
+Pakistan,PAK,2017,58.28241877,PK,Asia,2,Bad
+Panama,PAN,2010,14.13891846,PA,North America,4,Excellent
+Panama,PAN,2011,14.29603899,PA,North America,4,Excellent
+Panama,PAN,2012,13.97236651,PA,North America,4,Excellent
+Panama,PAN,2013,13.3978705,PA,North America,4,Excellent
+Panama,PAN,2014,12.92161513,PA,North America,4,Excellent
+Panama,PAN,2015,12.49074394,PA,North America,4,Excellent
+Panama,PAN,2016,11.46554742,PA,North America,4,Excellent
+Panama,PAN,2017,11.40005433,PA,North America,4,Excellent
+Papua New Guinea,PNG,2010,14.94135871,PG,Oceania,6,Excellent
+Papua New Guinea,PNG,2011,15.51903383,PG,Oceania,6,Excellent
+Papua New Guinea,PNG,2012,14.60653316,PG,Oceania,6,Excellent
+Papua New Guinea,PNG,2013,13.95262793,PG,Oceania,6,Excellent
+Papua New Guinea,PNG,2014,13.24529823,PG,Oceania,6,Excellent
+Papua New Guinea,PNG,2015,13.2617261,PG,Oceania,6,Excellent
+Papua New Guinea,PNG,2016,12.61505599,PG,Oceania,6,Excellent
+Papua New Guinea,PNG,2017,12.29441826,PG,Oceania,6,Excellent
+Paraguay,PRY,2010,15.10292317,PY,South America,5,Excellent
+Paraguay,PRY,2011,14.59811855,PY,South America,5,Excellent
+Paraguay,PRY,2012,13.94830615,PY,South America,5,Excellent
+Paraguay,PRY,2013,12.92656928,PY,South America,5,Excellent
+Paraguay,PRY,2014,12.6410755,PY,South America,5,Excellent
+Paraguay,PRY,2015,13.03807402,PY,South America,5,Excellent
+Paraguay,PRY,2016,11.64932248,PY,South America,5,Excellent
+Paraguay,PRY,2017,11.90908085,PY,South America,5,Excellent
+Peru,PER,2010,31.50257401,PE,South America,5,Very Good
+Peru,PER,2011,31.57116569,PE,South America,5,Very Good
+Peru,PER,2012,30.49445583,PE,South America,5,Very Good
+Peru,PER,2013,29.74308641,PE,South America,5,Very Good
+Peru,PER,2014,27.5826726,PE,South America,5,Very Good
+Peru,PER,2015,26.03726793,PE,South America,5,Very Good
+Peru,PER,2016,25.54274604,PE,South America,5,Very Good
+Peru,PER,2017,24.78672805,PE,South America,5,Very Good
+Philippines,PHL,2010,23.59231552,PH,Asia,2,Very Good
+Philippines,PHL,2011,22.75483447,PH,Asia,2,Very Good
+Philippines,PHL,2012,22.54958361,PH,Asia,2,Very Good
+Philippines,PHL,2013,21.21628777,PH,Asia,2,Very Good
+Philippines,PHL,2014,20.25958716,PH,Asia,2,Very Good
+Philippines,PHL,2015,19.58154202,PH,Asia,2,Excellent
+Philippines,PHL,2016,18.22692834,PH,Asia,2,Excellent
+Philippines,PHL,2017,18.06979891,PH,Asia,2,Excellent
+Poland,POL,2010,27.17650018,PL,Europe,3,Very Good
+Poland,POL,2011,26.37250707,PL,Europe,3,Very Good
+Poland,POL,2012,24.26397739,PL,Europe,3,Very Good
+Poland,POL,2013,22.9287237,PL,Europe,3,Very Good
+Poland,POL,2014,22.21089179,PL,Europe,3,Very Good
+Poland,POL,2015,22.69131805,PL,Europe,3,Very Good
+Poland,POL,2016,20.9757679,PL,Europe,3,Very Good
+Poland,POL,2017,20.87782222,PL,Europe,3,Very Good
+Portugal,PRT,2010,10.07688693,PT,Europe,3,Excellent
+Portugal,PRT,2011,10.35501263,PT,Europe,3,Excellent
+Portugal,PRT,2012,9.484802799,PT,Europe,3,Excellent
+Portugal,PRT,2013,9.432044129,PT,Europe,3,Excellent
+Portugal,PRT,2014,8.78479289,PT,Europe,3,Excellent
+Portugal,PRT,2015,8.823283435,PT,Europe,3,Excellent
+Portugal,PRT,2016,8.052763686,PT,Europe,3,Excellent
+Portugal,PRT,2017,8.160752248,PT,Europe,3,Excellent
+Puerto Rico,PRI,2010,10.37254851,PR,North America,4,Excellent
+Puerto Rico,PRI,2011,10.57940611,PR,North America,4,Excellent
+Puerto Rico,PRI,2012,9.96624445,PR,North America,4,Excellent
+Puerto Rico,PRI,2013,9.703754136,PR,North America,4,Excellent
+Puerto Rico,PRI,2014,9.089227717,PR,North America,4,Excellent
+Puerto Rico,PRI,2015,8.920910287,PR,North America,4,Excellent
+Puerto Rico,PRI,2016,8.342871258,PR,North America,4,Excellent
+Puerto Rico,PRI,2017,8.349033339,PR,North America,4,Excellent
+Qatar,QAT,2010,84.12290235,QA,Asia,2,Poor
+Qatar,QAT,2011,81.2730055,QA,Asia,2,Poor
+Qatar,QAT,2012,89.24697128,QA,Asia,2,Poor
+Qatar,QAT,2013,88.89051503,QA,Asia,2,Poor
+Qatar,QAT,2014,78.83284035,QA,Asia,2,Poor
+Qatar,QAT,2015,94.40389119,QA,Asia,2,Poor
+Qatar,QAT,2016,88.22244652,QA,Asia,2,Poor
+Qatar,QAT,2017,91.18732793,QA,Asia,2,Poor
+Romania,ROU,2010,17.06214749,RO,Europe,3,Excellent
+Romania,ROU,2011,17.63675464,RO,Europe,3,Excellent
+Romania,ROU,2012,16.31584539,RO,Europe,3,Excellent
+Romania,ROU,2013,15.36930935,RO,Europe,3,Excellent
+Romania,ROU,2014,15.00649546,RO,Europe,3,Excellent
+Romania,ROU,2015,15.43355526,RO,Europe,3,Excellent
+Romania,ROU,2016,14.53706284,RO,Europe,3,Excellent
+Romania,ROU,2017,14.61134019,RO,Europe,3,Excellent
+Russian Federation,RUS,2010,19.48031098,RU,Europe,3,Excellent
+Russian Federation,RUS,2011,19.19151083,RU,Europe,3,Excellent
+Russian Federation,RUS,2012,18.30433841,RU,Europe,3,Excellent
+Russian Federation,RUS,2013,17.79507055,RU,Europe,3,Excellent
+Russian Federation,RUS,2014,16.58216295,RU,Europe,3,Excellent
+Russian Federation,RUS,2015,17.0191912,RU,Europe,3,Excellent
+Russian Federation,RUS,2016,16.21988971,RU,Europe,3,Excellent
+Russian Federation,RUS,2017,16.16022381,RU,Europe,3,Excellent
+Rwanda,RWA,2010,41.44091192,RW,Africa,1,Good
+Rwanda,RWA,2011,42.68095937,RW,Africa,1,Good
+Rwanda,RWA,2012,44.56089624,RW,Africa,1,Good
+Rwanda,RWA,2013,44.41158508,RW,Africa,1,Good
+Rwanda,RWA,2014,42.21148744,RW,Africa,1,Good
+Rwanda,RWA,2015,42.61448971,RW,Africa,1,Good
+Rwanda,RWA,2016,42.84380209,RW,Africa,1,Good
+Rwanda,RWA,2017,43.21021716,RW,Africa,1,Good
+Samoa,WSM,2010,14.28809394,WS,Oceania,6,Excellent
+Samoa,WSM,2011,14.69309609,WS,Oceania,6,Excellent
+Samoa,WSM,2012,13.62788239,WS,Oceania,6,Excellent
+Samoa,WSM,2013,13.38252208,WS,Oceania,6,Excellent
+Samoa,WSM,2014,12.64355999,WS,Oceania,6,Excellent
+Samoa,WSM,2015,12.32179572,WS,Oceania,6,Excellent
+Samoa,WSM,2016,11.36629822,WS,Oceania,6,Excellent
+Samoa,WSM,2017,11.54802701,WS,Oceania,6,Excellent
+Sao Tome and Principe,STP,2010,27.12662111,ST,Africa,1,Very Good
+Sao Tome and Principe,STP,2011,27.86024402,ST,Africa,1,Very Good
+Sao Tome and Principe,STP,2012,25.91584337,ST,Africa,1,Very Good
+Sao Tome and Principe,STP,2013,27.65881666,ST,Africa,1,Very Good
+Sao Tome and Principe,STP,2014,27.86230189,ST,Africa,1,Very Good
+Sao Tome and Principe,STP,2015,28.43209352,ST,Africa,1,Very Good
+Sao Tome and Principe,STP,2016,28.6665386,ST,Africa,1,Very Good
+Sao Tome and Principe,STP,2017,28.53958436,ST,Africa,1,Very Good
+Saudi Arabia,SAU,2010,81.69918208,SA,Asia,2,Poor
+Saudi Arabia,SAU,2011,82.41903191,SA,Asia,2,Poor
+Saudi Arabia,SAU,2012,85.51330311,SA,Asia,2,Poor
+Saudi Arabia,SAU,2013,83.63099223,SA,Asia,2,Poor
+Saudi Arabia,SAU,2014,75.60844062,SA,Asia,2,Very Bad
+Saudi Arabia,SAU,2015,97.432289,SA,Asia,2,Poor
+Saudi Arabia,SAU,2016,84.46577505,SA,Asia,2,Poor
+Saudi Arabia,SAU,2017,87.94544668,SA,Asia,2,Poor
+Senegal,SEN,2010,34.98538395,SN,Africa,1,Good
+Senegal,SEN,2011,35.93539952,SN,Africa,1,Good
+Senegal,SEN,2012,36.16775596,SN,Africa,1,Good
+Senegal,SEN,2013,34.0182249,SN,Africa,1,Very Good
+Senegal,SEN,2014,36.82683776,SN,Africa,1,Good
+Senegal,SEN,2015,44.34080072,SN,Africa,1,Good
+Senegal,SEN,2016,38.69494655,SN,Africa,1,Good
+Senegal,SEN,2017,40.6958259,SN,Africa,1,Good
+Serbia,SRB,2010,29.10058899,RS,Europe,3,Very Good
+Serbia,SRB,2011,31.03402776,RS,Europe,3,Very Good
+Serbia,SRB,2012,28.5847484,RS,Europe,3,Very Good
+Serbia,SRB,2013,27.43078591,RS,Europe,3,Very Good
+Serbia,SRB,2014,26.49207255,RS,Europe,3,Very Good
+Serbia,SRB,2015,26.95437789,RS,Europe,3,Very Good
+Serbia,SRB,2016,24.78062162,RS,Europe,3,Very Good
+Serbia,SRB,2017,24.72635819,RS,Europe,3,Very Good
+Seychelles,SYC,2010,21.09126804,SC,Africa,1,Very Good
+Seychelles,SYC,2011,21.61035805,SC,Africa,1,Very Good
+Seychelles,SYC,2012,21.49533511,SC,Africa,1,Very Good
+Seychelles,SYC,2013,20.96973692,SC,Africa,1,Very Good
+Seychelles,SYC,2014,20.97051747,SC,Africa,1,Very Good
+Seychelles,SYC,2015,20.05359496,SC,Africa,1,Excellent
+Seychelles,SYC,2016,20.40382446,SC,Africa,1,Very Good
+Seychelles,SYC,2017,20.17864936,SC,Africa,1,Very Good
+Sierra Leone,SLE,2010,18.52888841,SL,Africa,1,Excellent
+Sierra Leone,SLE,2011,18.74315581,SL,Africa,1,Excellent
+Sierra Leone,SLE,2012,20.10129417,SL,Africa,1,Very Good
+Sierra Leone,SLE,2013,18.43566679,SL,Africa,1,Excellent
+Sierra Leone,SLE,2014,17.69823222,SL,Africa,1,Excellent
+Sierra Leone,SLE,2015,22.52859793,SL,Africa,1,Very Good
+Sierra Leone,SLE,2016,21.34393233,SL,Africa,1,Very Good
+Sierra Leone,SLE,2017,21.62594668,SL,Africa,1,Very Good
+Singapore,SGP,2010,20.60946174,SG,Asia,2,Very Good
+Singapore,SGP,2011,19.34942078,SG,Asia,2,Excellent
+Singapore,SGP,2012,20.88649301,SG,Asia,2,Very Good
+Singapore,SGP,2013,18.70707148,SG,Asia,2,Excellent
+Singapore,SGP,2014,17.40887705,SG,Asia,2,Excellent
+Singapore,SGP,2015,20.66338947,SG,Asia,2,Very Good
+Singapore,SGP,2016,18.79780262,SG,Asia,2,Excellent
+Singapore,SGP,2017,19.0782565,SG,Asia,2,Excellent
+Slovak Republic,SVK,2010,21.69021974,SK,Europe,3,Very Good
+Slovak Republic,SVK,2011,21.76719851,SK,Europe,3,Very Good
+Slovak Republic,SVK,2012,19.76493293,SK,Europe,3,Excellent
+Slovak Republic,SVK,2013,19.31549268,SK,Europe,3,Excellent
+Slovak Republic,SVK,2014,18.30418161,SK,Europe,3,Excellent
+Slovak Republic,SVK,2015,18.8026457,SK,Europe,3,Excellent
+Slovak Republic,SVK,2016,17.35366264,SK,Europe,3,Excellent
+Slovak Republic,SVK,2017,17.56291134,SK,Europe,3,Excellent
+Slovenia,SVN,2010,18.6816561,SI,Europe,3,Excellent
+Slovenia,SVN,2011,19.5141379,SI,Europe,3,Excellent
+Slovenia,SVN,2012,17.67007906,SI,Europe,3,Excellent
+Slovenia,SVN,2013,17.57137864,SI,Europe,3,Excellent
+Slovenia,SVN,2014,16.63270074,SI,Europe,3,Excellent
+Slovenia,SVN,2015,17.12815192,SI,Europe,3,Excellent
+Slovenia,SVN,2016,15.91273727,SI,Europe,3,Excellent
+Slovenia,SVN,2017,16.02397998,SI,Europe,3,Excellent
+Solomon Islands,SLB,2010,14.37425559,SB,Oceania,6,Excellent
+Solomon Islands,SLB,2011,14.37537331,SB,Oceania,6,Excellent
+Solomon Islands,SLB,2012,13.43024493,SB,Oceania,6,Excellent
+Solomon Islands,SLB,2013,12.55325496,SB,Oceania,6,Excellent
+Solomon Islands,SLB,2014,12.17203082,SB,Oceania,6,Excellent
+Solomon Islands,SLB,2015,12.69969555,SB,Oceania,6,Excellent
+Solomon Islands,SLB,2016,11.83068915,SB,Oceania,6,Excellent
+Solomon Islands,SLB,2017,11.87912184,SB,Oceania,6,Excellent
+Somalia,SOM,2010,29.00018535,SO,Africa,1,Very Good
+Somalia,SOM,2011,31.23015581,SO,Africa,1,Very Good
+Somalia,SOM,2012,31.58710495,SO,Africa,1,Very Good
+Somalia,SOM,2013,29.5515726,SO,Africa,1,Very Good
+Somalia,SOM,2014,30.40108067,SO,Africa,1,Very Good
+Somalia,SOM,2015,32.01839243,SO,Africa,1,Very Good
+Somalia,SOM,2016,31.75174608,SO,Africa,1,Very Good
+Somalia,SOM,2017,32.03458423,SO,Africa,1,Very Good
+South Africa,ZAF,2010,27.13858684,ZA,Africa,1,Very Good
+South Africa,ZAF,2011,26.55787322,ZA,Africa,1,Very Good
+South Africa,ZAF,2012,26.57708662,ZA,Africa,1,Very Good
+South Africa,ZAF,2013,26.72926171,ZA,Africa,1,Very Good
+South Africa,ZAF,2014,26.72221238,ZA,Africa,1,Very Good
+South Africa,ZAF,2015,26.11297177,ZA,Africa,1,Very Good
+South Africa,ZAF,2016,25.14041614,ZA,Africa,1,Very Good
+South Africa,ZAF,2017,25.10220499,ZA,Africa,1,Very Good
+South Sudan,SSD,2010,43.22533996,SS,Africa,1,Good
+South Sudan,SSD,2011,45.10147241,SS,Africa,1,Good
+South Sudan,SSD,2012,43.97405864,SS,Africa,1,Good
+South Sudan,SSD,2013,42.64200121,SS,Africa,1,Good
+South Sudan,SSD,2014,41.90056033,SS,Africa,1,Good
+South Sudan,SSD,2015,47.76803169,SS,Africa,1,Good
+South Sudan,SSD,2016,44.84657199,SS,Africa,1,Good
+South Sudan,SSD,2017,45.57750557,SS,Africa,1,Good
+Spain,ESP,2010,11.3493291,ES,Europe,3,Excellent
+Spain,ESP,2011,12.03799789,ES,Europe,3,Excellent
+Spain,ESP,2012,11.14962332,ES,Europe,3,Excellent
+Spain,ESP,2013,10.74258206,ES,Europe,3,Excellent
+Spain,ESP,2014,10.07458883,ES,Europe,3,Excellent
+Spain,ESP,2015,10.44910241,ES,Europe,3,Excellent
+Spain,ESP,2016,9.704138553,ES,Europe,3,Excellent
+Spain,ESP,2017,9.697927863,ES,Europe,3,Excellent
+Sri Lanka,LKA,2010,31.03378115,LK,Asia,2,Very Good
+Sri Lanka,LKA,2011,31.23207466,LK,Asia,2,Very Good
+Sri Lanka,LKA,2012,30.08397283,LK,Asia,2,Very Good
+Sri Lanka,LKA,2013,28.89822769,LK,Asia,2,Very Good
+Sri Lanka,LKA,2014,26.92277652,LK,Asia,2,Very Good
+Sri Lanka,LKA,2015,25.33734371,LK,Asia,2,Very Good
+Sri Lanka,LKA,2016,14.02544523,LK,Asia,2,Excellent
+Sri Lanka,LKA,2017,11.09961724,LK,Asia,2,Excellent
+St. Lucia,LCA,2010,27.63597227,LC,North America,4,Very Good
+St. Lucia,LCA,2011,28.07865593,LC,North America,4,Very Good
+St. Lucia,LCA,2012,26.36748478,LC,North America,4,Very Good
+St. Lucia,LCA,2013,25.44480168,LC,North America,4,Very Good
+St. Lucia,LCA,2014,24.23630259,LC,North America,4,Very Good
+St. Lucia,LCA,2015,24.28323968,LC,North America,4,Very Good
+St. Lucia,LCA,2016,22.35339926,LC,North America,4,Very Good
+St. Lucia,LCA,2017,22.40081712,LC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2010,26.39665862,VC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2011,27.58281022,VC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2012,25.75407882,VC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2013,24.76218005,VC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2014,23.03093206,VC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2015,23.47317148,VC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2016,22.07655177,VC,North America,4,Very Good
+St. Vincent and the Grenadines,VCT,2017,22.20051632,VC,North America,4,Very Good
+Sudan,SDN,2010,47.26205558,SD,Africa,1,Good
+Sudan,SDN,2011,51.15242727,SD,Africa,1,Bad
+Sudan,SDN,2012,49.68593895,SD,Africa,1,Bad
+Sudan,SDN,2013,48.02814491,SD,Africa,1,Good
+Sudan,SDN,2014,48.14174218,SD,Africa,1,Good
+Sudan,SDN,2015,58.90478573,SD,Africa,1,Bad
+Sudan,SDN,2016,54.14727633,SD,Africa,1,Bad
+Sudan,SDN,2017,55.37083444,SD,Africa,1,Bad
+Suriname,SUR,2010,29.83188899,SR,South America,5,Very Good
+Suriname,SUR,2011,31.03872183,SR,South America,5,Very Good
+Suriname,SUR,2012,29.1336101,SR,South America,5,Very Good
+Suriname,SUR,2013,28.80831685,SR,South America,5,Very Good
+Suriname,SUR,2014,25.99884713,SR,South America,5,Very Good
+Suriname,SUR,2015,25.9732844,SR,South America,5,Very Good
+Suriname,SUR,2016,25.31697817,SR,South America,5,Very Good
+Suriname,SUR,2017,24.78001054,SR,South America,5,Very Good
+Sweden,SWE,2010,7.209759036,SE,Europe,3,Excellent
+Sweden,SWE,2011,7.391221331,SE,Europe,3,Excellent
+Sweden,SWE,2012,6.627941996,SE,Europe,3,Excellent
+Sweden,SWE,2013,6.431168897,SE,Europe,3,Excellent
+Sweden,SWE,2014,6.959197681,SE,Europe,3,Excellent
+Sweden,SWE,2015,6.322498333,SE,Europe,3,Excellent
+Sweden,SWE,2016,6.114258462,SE,Europe,3,Excellent
+Sweden,SWE,2017,6.18466509,SE,Europe,3,Excellent
+Switzerland,CHE,2010,12.92221973,CH,Europe,3,Excellent
+Switzerland,CHE,2011,13.04922122,CH,Europe,3,Excellent
+Switzerland,CHE,2012,12.26138801,CH,Europe,3,Excellent
+Switzerland,CHE,2013,11.82005499,CH,Europe,3,Excellent
+Switzerland,CHE,2014,11.38910719,CH,Europe,3,Excellent
+Switzerland,CHE,2015,11.16525468,CH,Europe,3,Excellent
+Switzerland,CHE,2016,10.34263047,CH,Europe,3,Excellent
+Switzerland,CHE,2017,10.3031001,CH,Europe,3,Excellent
+Syrian Arab Republic,SYR,2010,42.65768485,SY,Asia,2,Good
+Syrian Arab Republic,SYR,2011,41.12495285,SY,Asia,2,Good
+Syrian Arab Republic,SYR,2012,41.01683877,SY,Asia,2,Good
+Syrian Arab Republic,SYR,2013,41.91496819,SY,Asia,2,Good
+Syrian Arab Republic,SYR,2014,41.53448066,SY,Asia,2,Good
+Syrian Arab Republic,SYR,2015,44.31390854,SY,Asia,2,Good
+Syrian Arab Republic,SYR,2016,43.70255284,SY,Asia,2,Good
+Syrian Arab Republic,SYR,2017,43.75725947,SY,Asia,2,Good
+Tajikistan,TJK,2010,50.40541765,TJ,Asia,2,Bad
+Tajikistan,TJK,2011,54.319961,TJ,Asia,2,Bad
+Tajikistan,TJK,2012,48.98960355,TJ,Asia,2,Bad
+Tajikistan,TJK,2013,49.55313763,TJ,Asia,2,Bad
+Tajikistan,TJK,2014,46.48082923,TJ,Asia,2,Good
+Tajikistan,TJK,2015,47.79297353,TJ,Asia,2,Good
+Tajikistan,TJK,2016,43.37770931,TJ,Asia,2,Good
+Tajikistan,TJK,2017,46.15218537,TJ,Asia,2,Good
+Tanzania,TZA,2010,28.60753269,TZ,Africa,1,Very Good
+Tanzania,TZA,2011,28.72876866,TZ,Africa,1,Very Good
+Tanzania,TZA,2012,29.96984478,TZ,Africa,1,Very Good
+Tanzania,TZA,2013,29.35963299,TZ,Africa,1,Very Good
+Tanzania,TZA,2014,28.87371592,TZ,Africa,1,Very Good
+Tanzania,TZA,2015,28.2404487,TZ,Africa,1,Very Good
+Tanzania,TZA,2016,28.44356969,TZ,Africa,1,Very Good
+Tanzania,TZA,2017,29.07664051,TZ,Africa,1,Very Good
+Thailand,THA,2010,31.56539944,TH,Asia,2,Very Good
+Thailand,THA,2011,31.60962923,TH,Asia,2,Very Good
+Thailand,THA,2012,31.52531464,TH,Asia,2,Very Good
+Thailand,THA,2013,31.17472364,TH,Asia,2,Very Good
+Thailand,THA,2014,29.36464114,TH,Asia,2,Very Good
+Thailand,THA,2015,27.34456692,TH,Asia,2,Very Good
+Thailand,THA,2016,26.25805467,TH,Asia,2,Very Good
+Thailand,THA,2017,26.25672656,TH,Asia,2,Very Good
+Togo,TGO,2010,30.52294447,TG,Africa,1,Very Good
+Togo,TGO,2011,30.85480627,TG,Africa,1,Very Good
+Togo,TGO,2012,31.36920959,TG,Africa,1,Very Good
+Togo,TGO,2013,29.56592775,TG,Africa,1,Very Good
+Togo,TGO,2014,28.93629146,TG,Africa,1,Very Good
+Togo,TGO,2015,38.35682101,TG,Africa,1,Good
+Togo,TGO,2016,37.05110734,TG,Africa,1,Good
+Togo,TGO,2017,35.73133561,TG,Africa,1,Good
+Tonga,TON,2010,13.53194839,TO,Oceania,6,Excellent
+Tonga,TON,2011,13.5170884,TO,Oceania,6,Excellent
+Tonga,TON,2012,12.43817111,TO,Oceania,6,Excellent
+Tonga,TON,2013,12.14771339,TO,Oceania,6,Excellent
+Tonga,TON,2014,12.05763996,TO,Oceania,6,Excellent
+Tonga,TON,2015,11.31296782,TO,Oceania,6,Excellent
+Tonga,TON,2016,10.95142376,TO,Oceania,6,Excellent
+Tonga,TON,2017,10.78547886,TO,Oceania,6,Excellent
+Trinidad and Tobago,TTO,2010,28.70418626,TT,North America,4,Very Good
+Trinidad and Tobago,TTO,2011,29.85162487,TT,North America,4,Very Good
+Trinidad and Tobago,TTO,2012,27.94250467,TT,North America,4,Very Good
+Trinidad and Tobago,TTO,2013,27.15873901,TT,North America,4,Very Good
+Trinidad and Tobago,TTO,2014,24.85584226,TT,North America,4,Very Good
+Trinidad and Tobago,TTO,2015,24.8980769,TT,North America,4,Very Good
+Trinidad and Tobago,TTO,2016,24.23048069,TT,North America,4,Very Good
+Trinidad and Tobago,TTO,2017,24.10856843,TT,North America,4,Very Good
+Tunisia,TUN,2010,35.54548859,TN,Africa,1,Good
+Tunisia,TUN,2011,33.86835212,TN,Africa,1,Very Good
+Tunisia,TUN,2012,32.81580557,TN,Africa,1,Very Good
+Tunisia,TUN,2013,35.65414466,TN,Africa,1,Good
+Tunisia,TUN,2014,34.69205883,TN,Africa,1,Good
+Tunisia,TUN,2015,36.30424932,TN,Africa,1,Good
+Tunisia,TUN,2016,38.45049077,TN,Africa,1,Good
+Tunisia,TUN,2017,37.65599375,TN,Africa,1,Good
+Turkey,TUR,2010,43.82122875,TR,Asia,2,Good
+Turkey,TUR,2011,40.54510881,TR,Asia,2,Good
+Turkey,TUR,2012,41.92091892,TR,Asia,2,Good
+Turkey,TUR,2013,42.06258311,TR,Asia,2,Good
+Turkey,TUR,2014,42.59577121,TR,Asia,2,Good
+Turkey,TUR,2015,45.4015556,TR,Asia,2,Good
+Turkey,TUR,2016,44.48275839,TR,Asia,2,Good
+Turkey,TUR,2017,44.31152568,TR,Asia,2,Good
+Turkmenistan,TKM,2010,24.85182927,TM,Asia,2,Very Good
+Turkmenistan,TKM,2011,25.49609942,TM,Asia,2,Very Good
+Turkmenistan,TKM,2012,23.80201005,TM,Asia,2,Very Good
+Turkmenistan,TKM,2013,23.7218898,TM,Asia,2,Very Good
+Turkmenistan,TKM,2014,22.08490686,TM,Asia,2,Very Good
+Turkmenistan,TKM,2015,22.97054002,TM,Asia,2,Very Good
+Turkmenistan,TKM,2016,21.74112228,TM,Asia,2,Very Good
+Turkmenistan,TKM,2017,21.76772098,TM,Asia,2,Very Good
+Uganda,UGA,2010,44.75869737,UG,Africa,1,Good
+Uganda,UGA,2011,47.06116817,UG,Africa,1,Good
+Uganda,UGA,2012,49.62672958,UG,Africa,1,Bad
+Uganda,UGA,2013,47.72115871,UG,Africa,1,Good
+Uganda,UGA,2014,46.93056685,UG,Africa,1,Good
+Uganda,UGA,2015,48.94936019,UG,Africa,1,Bad
+Uganda,UGA,2016,51.94410661,UG,Africa,1,Bad
+Uganda,UGA,2017,50.49432132,UG,Africa,1,Bad
+Ukraine,UKR,2010,23.52265648,UA,Europe,3,Very Good
+Ukraine,UKR,2011,23.97110359,UA,Europe,3,Very Good
+Ukraine,UKR,2012,22.3287933,UA,Europe,3,Very Good
+Ukraine,UKR,2013,21.5323995,UA,Europe,3,Very Good
+Ukraine,UKR,2014,20.48689522,UA,Europe,3,Very Good
+Ukraine,UKR,2015,21.24645457,UA,Europe,3,Very Good
+Ukraine,UKR,2016,20.618187,UA,Europe,3,Very Good
+Ukraine,UKR,2017,20.30977582,UA,Europe,3,Very Good
+United Arab Emirates,ARE,2010,38.98006849,AE,Asia,2,Good
+United Arab Emirates,ARE,2011,39.1934301,AE,Asia,2,Good
+United Arab Emirates,ARE,2012,39.27712811,AE,Asia,2,Good
+United Arab Emirates,ARE,2013,39.6081551,AE,Asia,2,Good
+United Arab Emirates,ARE,2014,37.98342106,AE,Asia,2,Good
+United Arab Emirates,ARE,2015,42.33499,AE,Asia,2,Good
+United Arab Emirates,ARE,2016,40.52210348,AE,Asia,2,Good
+United Arab Emirates,ARE,2017,40.91750982,AE,Asia,2,Good
+United Kingdom,GBR,2010,12.29910815,GB,Europe,3,Excellent
+United Kingdom,GBR,2011,12.84799901,GB,Europe,3,Excellent
+United Kingdom,GBR,2012,11.81449494,GB,Europe,3,Excellent
+United Kingdom,GBR,2013,11.61890149,GB,Europe,3,Excellent
+United Kingdom,GBR,2014,10.80055978,GB,Europe,3,Excellent
+United Kingdom,GBR,2015,10.75487287,GB,Europe,3,Excellent
+United Kingdom,GBR,2016,10.50466684,GB,Europe,3,Excellent
+United Kingdom,GBR,2017,10.47269039,GB,Europe,3,Excellent
+United States,USA,2010,9.35863641,US,North America,4,Excellent
+United States,USA,2011,9.740640607,US,North America,4,Excellent
+United States,USA,2012,9.00316337,US,North America,4,Excellent
+United States,USA,2013,8.734777211,US,North America,4,Excellent
+United States,USA,2014,8.220720319,US,North America,4,Excellent
+United States,USA,2015,8.063920222,US,North America,4,Excellent
+United States,USA,2016,7.406464089,US,North America,4,Excellent
+United States,USA,2017,7.409441662,US,North America,4,Excellent
+Uruguay,URY,2010,11.02705557,UY,South America,5,Excellent
+Uruguay,URY,2011,11.4687322,UY,South America,5,Excellent
+Uruguay,URY,2012,10.5672946,UY,South America,5,Excellent
+Uruguay,URY,2013,10.45560559,UY,South America,5,Excellent
+Uruguay,URY,2014,9.926816159,UY,South America,5,Excellent
+Uruguay,URY,2015,9.65945432,UY,South America,5,Excellent
+Uruguay,URY,2016,9.197441119,UY,South America,5,Excellent
+Uruguay,URY,2017,9.27488332,UY,South America,5,Excellent
+Uzbekistan,UZB,2010,32.07745356,UZ,Asia,2,Very Good
+Uzbekistan,UZB,2011,33.99383696,UZ,Asia,2,Very Good
+Uzbekistan,UZB,2012,31.6621061,UZ,Asia,2,Very Good
+Uzbekistan,UZB,2013,30.80519356,UZ,Asia,2,Very Good
+Uzbekistan,UZB,2014,28.9000361,UZ,Asia,2,Very Good
+Uzbekistan,UZB,2015,30.3943319,UZ,Asia,2,Very Good
+Uzbekistan,UZB,2016,27.8143471,UZ,Asia,2,Very Good
+Uzbekistan,UZB,2017,28.4559012,UZ,Asia,2,Very Good
+Vanuatu,VUT,2010,14.12951255,VU,Oceania,6,Excellent
+Vanuatu,VUT,2011,14.38296402,VU,Oceania,6,Excellent
+Vanuatu,VUT,2012,13.24245239,VU,Oceania,6,Excellent
+Vanuatu,VUT,2013,12.74069289,VU,Oceania,6,Excellent
+Vanuatu,VUT,2014,11.93385168,VU,Oceania,6,Excellent
+Vanuatu,VUT,2015,12.15721001,VU,Oceania,6,Excellent
+Vanuatu,VUT,2016,11.59090896,VU,Oceania,6,Excellent
+Vanuatu,VUT,2017,11.65277703,VU,Oceania,6,Excellent
+"Venezuela, RB",VEN,2010,21.68286882,VE,South America,5,Very Good
+"Venezuela, RB",VEN,2011,22.03310792,VE,South America,5,Very Good
+"Venezuela, RB",VEN,2012,21.24572753,VE,South America,5,Very Good
+"Venezuela, RB",VEN,2013,20.42894973,VE,South America,5,Very Good
+"Venezuela, RB",VEN,2014,19.10406153,VE,South America,5,Excellent
+"Venezuela, RB",VEN,2015,18.30300574,VE,South America,5,Excellent
+"Venezuela, RB",VEN,2016,16.76799384,VE,South America,5,Excellent
+"Venezuela, RB",VEN,2017,17.00855357,VE,South America,5,Excellent
+Vietnam,VNM,2010,39.36539699,VN,Asia,2,Good
+Vietnam,VNM,2011,38.4869748,VN,Asia,2,Good
+Vietnam,VNM,2012,37.22745154,VN,Asia,2,Good
+Vietnam,VNM,2013,36.83590641,VN,Asia,2,Good
+Vietnam,VNM,2014,34.89601505,VN,Asia,2,Good
+Vietnam,VNM,2015,32.46644382,VN,Asia,2,Very Good
+Vietnam,VNM,2016,30.24131157,VN,Asia,2,Very Good
+Vietnam,VNM,2017,29.62672834,VN,Asia,2,Very Good
+Virgin Islands (U.S.),VIR,2010,12.75209971,VI,North America,4,Excellent
+Virgin Islands (U.S.),VIR,2011,12.99373844,VI,North America,4,Excellent
+Virgin Islands (U.S.),VIR,2012,12.23312314,VI,North America,4,Excellent
+Virgin Islands (U.S.),VIR,2013,11.95551314,VI,North America,4,Excellent
+Virgin Islands (U.S.),VIR,2014,11.1658167,VI,North America,4,Excellent
+Virgin Islands (U.S.),VIR,2015,11.02889651,VI,North America,4,Excellent
+Virgin Islands (U.S.),VIR,2016,10.26484343,VI,North America,4,Excellent
+Virgin Islands (U.S.),VIR,2017,10.26531228,VI,North America,4,Excellent
+West Bank and Gaza,PSE,2010,33.00667425,PS,Asia,2,Very Good
+West Bank and Gaza,PSE,2011,32.87331274,PS,Asia,2,Very Good
+West Bank and Gaza,PSE,2012,32.76945904,PS,Asia,2,Very Good
+West Bank and Gaza,PSE,2013,33.49296358,PS,Asia,2,Very Good
+West Bank and Gaza,PSE,2014,33.44828276,PS,Asia,2,Very Good
+West Bank and Gaza,PSE,2015,33.89141151,PS,Asia,2,Very Good
+West Bank and Gaza,PSE,2016,32.74206764,PS,Asia,2,Very Good
+West Bank and Gaza,PSE,2017,33.22563038,PS,Asia,2,Very Good
+"Yemen, Rep.",YEM,2010,45.97946993,YE,Asia,2,Good
+"Yemen, Rep.",YEM,2011,50.83529078,YE,Asia,2,Bad
+"Yemen, Rep.",YEM,2012,51.43445402,YE,Asia,2,Bad
+"Yemen, Rep.",YEM,2013,52.99844335,YE,Asia,2,Bad
+"Yemen, Rep.",YEM,2014,48.33865267,YE,Asia,2,Good
+"Yemen, Rep.",YEM,2015,54.26028666,YE,Asia,2,Bad
+"Yemen, Rep.",YEM,2016,50.12762567,YE,Asia,2,Bad
+"Yemen, Rep.",YEM,2017,50.45600689,YE,Asia,2,Bad
+Zambia,ZMB,2010,28.8363786,ZM,Africa,1,Very Good
+Zambia,ZMB,2011,28.98711674,ZM,Africa,1,Very Good
+Zambia,ZMB,2012,29.74203953,ZM,Africa,1,Very Good
+Zambia,ZMB,2013,29.11222078,ZM,Africa,1,Very Good
+Zambia,ZMB,2014,28.49325189,ZM,Africa,1,Very Good
+Zambia,ZMB,2015,28.37545168,ZM,Africa,1,Very Good
+Zambia,ZMB,2016,27.35567371,ZM,Africa,1,Very Good
+Zambia,ZMB,2017,27.43803476,ZM,Africa,1,Very Good
+Zimbabwe,ZWE,2010,23.2314787,ZW,Africa,1,Very Good
+Zimbabwe,ZWE,2011,23.07421266,ZW,Africa,1,Very Good
+Zimbabwe,ZWE,2012,23.19809712,ZW,Africa,1,Very Good
+Zimbabwe,ZWE,2013,23.11108755,ZW,Africa,1,Very Good
+Zimbabwe,ZWE,2014,22.80594966,ZW,Africa,1,Very Good
+Zimbabwe,ZWE,2015,21.73370858,ZW,Africa,1,Very Good
+Zimbabwe,ZWE,2016,21.72694718,ZW,Africa,1,Very Good
+Zimbabwe,ZWE,2017,22.25167109,ZW,Africa,1,Very Good

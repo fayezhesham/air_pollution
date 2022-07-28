@@ -1,0 +1,178 @@
+body{
+    background-color: #000011;
+    color: rgb(199, 199, 199);
+    font-family: sans-serif;
+    margin:0px;
+    overflow-x:auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    overflow-x: auto;
+    min-height: 100vh;
+    min-width: 1400px;
+}
+
+
+#main{
+    display: grid;
+    grid-template-columns: repeat(20, 1fr);
+    grid-template-rows: repeat(40, 1fr);
+    grid-gap: 20px;
+    height: 1200px;
+    min-height: 90vh;
+    max-width: 120%;
+    width: 100%;
+}
+
+
+#header{
+    grid-area: 1/1/4/21;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#title{
+    font-size: 35px;
+    margin: 0px;
+}
+
+
+#filters{
+    grid-area: 4/1/7/21;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+
+
+#bar_chart{
+    grid-area: 7/1/25/9;
+}
+
+
+#map{
+    grid-area: 7/9/25/21;
+}
+
+
+#line_chart{
+    grid-area: 25/1/41/13;
+}
+
+
+#pie_chart{
+    grid-area: 25/13/41/21;
+}
+
+
+.container{
+    border-radius: 30px;
+    background-color: #191a1a;
+    box-shadow: -1px -1px 4px #574f4f, 1px 1px 4px #524848;
+    padding: 9px;
+}
+
+
+
+#buttons{
+    float: left;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.button{
+    height: auto;
+    width: auto;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(17, 15, 17);
+    color: white;
+    border: 1px solid rgb(0, 0, 104);
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+
+.button:hover{
+    opacity: 70%;
+}
+
+
+#slider_container{
+    display: flex;
+    width: 50%;
+    float: right;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#year-slider{
+    width: 90%;
+}
+
+
+.dash-graph{
+    height: 100%;
+}
+
+.loading{
+    height: 100%;
+}
+
+
+
+.rc-slider-dot-active, .rc-slider-handle {
+    border-color: blue !important;
+  }
+  
+  .rc-slider-track {
+    background-color: #444444 !important
+  }
+  
+  .rc-slider-rail {
+    background-color: #999999 !important
+  }
+
+#dropdown_container{
+    height: 100%;
+}
+
+#dropdown{
+    height: 100%;
+}
+
+
+
+.select-control{
+    height: 200px;
+}
+
+
+
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0) rgb(54, 54, 66);
+}
+  
+*::-webkit-scrollbar {
+    width: 15px;
+}
+  
+*::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0);
+    border-radius:20px;
+}
+  
+*::-webkit-scrollbar-thumb {
+    background-color: rgb(54, 54, 66);
+    border-radius: 20px;
+    border: 3px solid #111111;
+}
